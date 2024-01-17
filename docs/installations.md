@@ -38,3 +38,8 @@ Install newewst version of tuist using `mise`
 mise install tuist
 ```
 
+### set tuist global version
+update tuist version with your installed version
+```sh
+mise use -g tuist@3.40.0
+```
