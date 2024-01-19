@@ -24,6 +24,8 @@ import MyPlugin
 let localHelper = LocalHelper(name: "MyPlugin")
 
 // Creates our project using a helper function defined in ProjectDescriptionHelpers
-let project = Project.app(name: "Mofumofu",
-                          destinations: .iOS,
-                          additionalTargets: ["MofumofuKit", "MofumofuUI"])
+
+let project = ProjectBuilder("Mofumofu")
+    .addModule("MofumofuKit", dependencies: [.external(name: "Alamofire")])
+    .addModule("MofumofuUI")
+    .build()
