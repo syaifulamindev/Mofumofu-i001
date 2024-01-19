@@ -7,6 +7,7 @@ import ProjectDescription
 public class ProjectBuilder {
     private let name: String
     private var targets: [Target] = []
+    private var moduleNames: [String] = []
     private let DESTINATIONS: Destinations = .iOS
     public init(_ name: String) {
         self.name = name
@@ -19,6 +20,7 @@ public class ProjectBuilder {
             "UILaunchStoryboardName": "LaunchScreen"
             ]
 
+        let mainDependencies = self.moduleNames.map { TargetDependency.target(name: $0)}
         let mainTarget = Target(
             name: name,
             destinations: DESTINATIONS,
@@ -27,7 +29,7 @@ public class ProjectBuilder {
             infoPlist: .extendingDefault(with: infoPlist),
             sources: ["Targets/\(name)/Sources/**"],
             resources: ["Targets/\(name)/Resources/**"],
-            dependencies: []
+            dependencies: mainDependencies
         )
 
         let testTarget = Target(
@@ -71,6 +73,7 @@ public extension ProjectBuilder {
                            sources: ["Targets/\(name)/Tests/**"],
                            resources: resources,
                            dependencies: testDependencies)
+        moduleNames.append(name)
         targets.append(contentsOf: [sources, tests])
         return self
     }
