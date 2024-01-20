@@ -54,13 +54,14 @@ public class ProjectBuilder {
 
 public extension ProjectBuilder {
     
-    func addModule(_ name: String, dependencies: [TargetDependency] = [], resources: ResourceFileElements = []) -> ProjectBuilder {
+    func addModule(_ name: String, path: String = "", dependencies: [TargetDependency] = [], resources: ResourceFileElements = []) -> ProjectBuilder {
+        let  relativePath: String = path == "" ? name : path
         let sources = Target(name: name,
                              destinations: DESTINATIONS,
                 product: .framework,
                              bundleId: "id.amin.\(name)",
                 infoPlist: .default,
-                             sources: ["Targets/\(name)/Sources/**"],
+                             sources: ["Targets/\(relativePath)/Sources/**"],
                              resources: resources,
                              dependencies: dependencies)
         var testDependencies = dependencies
@@ -70,7 +71,7 @@ public extension ProjectBuilder {
                 product: .unitTests,
                            bundleId: "id.amin.\(name)Tests",
                 infoPlist: .default,
-                           sources: ["Targets/\(name)/Tests/**"],
+                           sources: ["Targets/\(relativePath)/Tests/**"],
                            resources: resources,
                            dependencies: testDependencies)
         moduleNames.append(name)

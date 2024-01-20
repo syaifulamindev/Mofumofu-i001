@@ -26,6 +26,14 @@ let localHelper = LocalHelper(name: "MyPlugin")
 // Creates our project using a helper function defined in ProjectDescriptionHelpers
 
 let project = ProjectBuilder("Mofumofu")
-    .addModule("MofumofuKit", dependencies: [.external(name: "Alamofire")])
-    .addModule("MofumofuUI")
+    .addModule("MofumofuKit", dependencies: [
+        .external(name: "Alamofire"),
+        .external(name: "Moya")
+    ])
+    .addModule("MofumofuUI", dependencies: [
+        .external(name: "SnapKit")
+    ])
+    .addModule("AnimalFeature", path: "Features/Animal", dependencies: [
+        .target(name: "MofumofuUI")
+    ])
     .build()

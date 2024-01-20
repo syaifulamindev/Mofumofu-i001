@@ -69,5 +69,6 @@ Derived/
 ### Tuist managed dependencies ###
 Tuist/Dependencies
 
-### Other
-.build
+# Other
+*.build
+*.resolved
