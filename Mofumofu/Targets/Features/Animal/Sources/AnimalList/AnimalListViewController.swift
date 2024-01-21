@@ -12,15 +12,20 @@ import MofumofuKit
 
 class AnimalListViewController: UITableViewController {
     
-    let dataSource = AnimalListDatasource()
+    var dataSource: AnimalListDatasource = AnimalListDatasource()
+    var delegate = AnimalListDelegate()
+    
+    weak var coordinator: MainCoordinator?
     override func viewDidLoad() {
         super.viewDidLoad()
-        dataSource.setup(self.tableView)
-        tableView.reloadData()
+        dataSource.setup(tableView)
+        tableView.delegate = delegate
     }
     
     init() {
         super.init(nibName: nil, bundle: nil)
+        delegate.dataSource = dataSource
+        
         view.backgroundColor = .white
         tabBarItem.title = "Animal List"
     }
@@ -28,15 +33,5 @@ class AnimalListViewController: UITableViewController {
     required init?(coder: NSCoder) {
         super.init(coder: coder)
     }
-}
-
-extension InjectedValues {
-    var animalList: UIViewController {
-        get { Self[AnimalListKey.self] }
-        set { Self[AnimalListKey.self] = newValue }
-    }
-}
- 
-struct AnimalListKey: InjectionKey {
-    static var currentValue: UIViewController = AnimalListViewController()
+    
 }

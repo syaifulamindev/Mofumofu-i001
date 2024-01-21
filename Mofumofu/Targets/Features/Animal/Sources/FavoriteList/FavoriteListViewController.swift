@@ -36,14 +36,3 @@ class FavoriteListViewController: UIViewController {
     
 
 }
-
-extension InjectedValues {
-    var favoriteList: UIViewController {
-        get { Self[FavoriteListKey.self] }
-        set { Self[FavoriteListKey.self] = newValue }
-    }
-}
- 
-struct FavoriteListKey: InjectionKey {
-    static var currentValue: UIViewController = FavoriteListViewController()
-}
