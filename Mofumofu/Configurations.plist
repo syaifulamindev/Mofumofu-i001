@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>ANIMAL_API_KEY</key>
-	<string>&lt;your animal api key&gt;</string>
+	<string>&lt;your api key&gt;</string>
 	<key>IMAGE_API_KEY</key>
-	<string>&lt;your image api key&gt;</string>
+	<string>&lt;your api key&gt;</string>
 </dict>
 </plist>
