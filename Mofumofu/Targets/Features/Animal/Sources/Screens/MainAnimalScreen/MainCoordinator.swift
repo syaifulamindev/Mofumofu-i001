@@ -26,7 +26,7 @@ public class MainCoordinator: Coordinator {
         vc.setViewControllers(
             [
                 animalListVC(),
-                FavoriteListViewController()
+                favoriteListVC()
             ],
             animated: true
         )
@@ -35,9 +35,15 @@ public class MainCoordinator: Coordinator {
     
     private func animalListVC() -> UIViewController {
         let vc = AnimalListViewController()
+        vc.coordinator = self
         vc.delegate.coordinator = self
         return vc
-        
+    }
+    
+    private func favoriteListVC() -> UIViewController {
+        let vc = FavoriteListViewController()
+        vc.coordinator = self
+        return vc
     }
     
     func subtypeAnimalPictures(_ animalName: String) {
@@ -60,6 +66,12 @@ public class MainCoordinator: Coordinator {
             print("data: \(data)")
         }
         
+    }
+    
+    func filter(_ onFilter: @escaping ([String]) -> Void) {
+        let vc = FilterViewTableViewController()
+        vc.onFilter = onFilter
+        navigationController.pushViewController(vc, animated: true)
     }
     
     

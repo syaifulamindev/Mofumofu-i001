@@ -28,7 +28,6 @@ class AnimalPictureCollectionView: UICollectionView {
             return
         }
         
-        
         let spacing = 8
         
         var numberOfItem: Int = 2

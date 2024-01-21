@@ -17,6 +17,7 @@ class SubtypeAnimalPictureListViewController: UIViewController {
     
     weak var coordinator: MainCoordinator?
     let collectionView: AnimalPictureCollectionView
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
