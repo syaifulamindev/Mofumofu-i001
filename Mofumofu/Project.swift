@@ -29,7 +29,7 @@ let project = ProjectBuilder("Mofumofu")
     .addModule("MofumofuKit", dependencies: [
         .external(name: "Alamofire"),
         .external(name: "Moya")
-    ])
+    ], resources: ["../configs/Configurations.plist"])
     .addModule("MofumofuUI", dependencies: [
         .external(name: "SnapKit")
     ])

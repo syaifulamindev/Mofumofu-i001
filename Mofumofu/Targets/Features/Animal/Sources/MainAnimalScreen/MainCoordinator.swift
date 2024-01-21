@@ -8,9 +8,13 @@
 
 import UIKit
 import MofumofuUI
+import MofumofuKit
+
 public class MainCoordinator: Coordinator {
     public var childCoordinators = [Coordinator]()
     public var navigationController: UINavigationController
+    @Injected(\.networkProvider)
+    public var networkProvider: NetworkProviding
     
     public init(navigationController: UINavigationController) {
         self.navigationController = navigationController
@@ -37,6 +41,15 @@ public class MainCoordinator: Coordinator {
     
     func subtypeAnimalPictures(_ animalName: String) {
         let vc = SubtypeAnimalPictureListViewController()
+        vc.coordinator = self
         navigationController.pushViewController(vc, animated: true)
+        
+        Task {
+            let animalSubtypes: Animals = try await networkProvider.request(AnimalAPI.animalList(name: animalName))
+            print(animalSubtypes)
+        }
+        
     }
+    
+    
 }

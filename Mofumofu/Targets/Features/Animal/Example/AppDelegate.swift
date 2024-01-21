@@ -1,7 +1,7 @@
 import UIKit
 import MofumofuUI
 import AnimalFeature
-
+import MofumofuKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

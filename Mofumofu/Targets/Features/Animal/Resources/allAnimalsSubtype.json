@@ -1,0 +1,4692 @@
+[
+  {
+    "name": "African Bush Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta",
+      "scientific_name": "Loxodonta africana africana"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Grass, Fruit, Roots",
+      "name_of_young": "Calf",
+      "group_behavior": "Herd",
+      "estimated_population_size": "300,000",
+      "biggest_threat": "Poaching and habitat loss",
+      "most_distinctive_feature": "Large, rounded ears",
+      "other_name(s)": "African Elephant",
+      "gestation_period": "20 - 24 months",
+      "habitat": "Forest, savannah and flood plains",
+      "predators": "Human, Lion, Hyena",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "African Bush Elephant",
+      "number_of_species": "1",
+      "location": "central and southern Africa",
+      "slogan": "Can drink up to 50 gallons a day",
+      "group": "Mammal",
+      "color": "BrownGrey",
+      "skin_type": "Leather",
+      "top_speed": "25 mph",
+      "lifespan": "60 - 70 years",
+      "weight": "3,600kg - 5,400kg (7,900lbs - 12,000lbs)",
+      "height": "3m - 3.5m (10ft - 12ft)",
+      "age_of_sexual_maturity": "11 - 20 years",
+      "age_of_weaning": "6 - 18 months"
+    }
+  },
+  {
+    "name": "African Forest Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta",
+      "scientific_name": "Loxodonta cyclotis"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Grass, Fruit, Roots",
+      "name_of_young": "Calf",
+      "group_behavior": "Herd",
+      "estimated_population_size": "200,000",
+      "biggest_threat": "Poaching and habitat loss",
+      "most_distinctive_feature": "Rounded ears and thin, straight tusks",
+      "other_name(s)": "African Elephant",
+      "gestation_period": "22 - 24 months",
+      "habitat": "Forest, savannah and flood plains",
+      "predators": "Human, Lion, Hyena",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "African Forest Elephant",
+      "number_of_species": "1",
+      "location": "central and southern Africa",
+      "slogan": "Have large rounded ears to help keep them cool!",
+      "group": "Mammal",
+      "color": "BrownGrey",
+      "skin_type": "Leather",
+      "top_speed": "24 mph",
+      "lifespan": "60 - 70 years",
+      "weight": "900kg - 3,000kg (1,984lbs - 6,613lbs)",
+      "height": "2m - 3m (6.6ft - 9.8ft)",
+      "age_of_sexual_maturity": "11 - 20 years",
+      "age_of_weaning": "5 years"
+    }
+  },
+  {
+    "name": "Asian Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas maximus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Domesticated for hundreds of years!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Borneo Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas maximus borneensis"
+    },
+    "locations": [
+      "Asia",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "The smallest species of elephant!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae"
+    },
+    "locations": [
+      "Africa",
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Large body size and long trunk",
+      "habitat": "Rainforest and flood plains",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Spends around 22 hours a day eating!",
+      "color": "Grey",
+      "skin_type": "Leather",
+      "top_speed": "25 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,400kg (6,500lbs - 12,000lbs)",
+      "height": "2m - 3.6m (7ft - 12ft)"
+    }
+  },
+  {
+    "name": "Elephant Seal",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Mirounga",
+      "scientific_name": "Mirounga"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Squid, Octopus",
+      "distinctive_feature": "Long trunk-like nose and large body",
+      "habitat": "Warm coastal waters close to land",
+      "predators": "Human, Sharks, Killer Whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Fish",
+      "type": "Mammal",
+      "slogan": "The largest species of seal in the world!",
+      "color": "BrownGreyBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "12 mph",
+      "lifespan": "18 - 22 years",
+      "weight": "900kg - 3,000kg (2,000lbs - 6,000lbs)",
+      "length": "3m - 5m (10ft - 16ft)"
+    }
+  },
+  {
+    "name": "Elephant Shrew",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Macroscelidea",
+      "family": "Macroscelididae",
+      "genus": "Elephantulus",
+      "scientific_name": "Elephantulus"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "main_prey": "Insects, Worms, Spiders",
+      "distinctive_feature": "Long nose and long back legs",
+      "habitat": "Forest, woodland and grassland",
+      "predators": "Snakes, Lizards, Birds of Prey",
+      "diet": "Omnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Solitary",
+      "favorite_food": "Insects",
+      "type": "Mammal",
+      "slogan": "Found exclusively on the African continent!",
+      "color": "BrownGreyBlackWhiteTan",
+      "skin_type": "Fur",
+      "top_speed": "8 mph",
+      "lifespan": "2 - 5 years",
+      "weight": "50g - 500g (2oz - 18oz)",
+      "length": "10cm - 30cm (4in - 12in)"
+    }
+  },
+  {
+    "name": "Indian Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas maximus indicus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Found throughout south-east Asia!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Sri Lankan Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas Maximus Maximus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Now restricted to a few parks!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Sumatran Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Elephas",
+      "scientific_name": "Elephas Maximus Sumatranus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Roots",
+      "distinctive_feature": "Long trunk and large feet",
+      "habitat": "Rainforest and tropical woodland",
+      "predators": "Human, Tiger",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Less than 2,000 left in the wild!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "27 mph",
+      "lifespan": "55 - 70 years",
+      "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+      "height": "2m - 3m (7ft - 10ft)"
+    }
+  },
+  {
+    "name": "Cape Lion",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "scientific_name": "Panthera leo melanochaitus"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Wildebeests, antelopes, zebras, buffalos, rodents, and more",
+      "name_of_young": "cub",
+      "group_behavior": "Pride",
+      "biggest_threat": "Habitat loss and hunting",
+      "most_distinctive_feature": "The male’s dark-colored mane",
+      "gestation_period": "around 100 days",
+      "litter_size": "1-6 cubs",
+      "habitat": "plains",
+      "diet": "Carnivore",
+      "type": "mammal",
+      "common_name": "Cape Lion",
+      "origin": "South Africa",
+      "number_of_species": "1",
+      "location": "South Africa",
+      "color": "BrownYellowWhiteOrange",
+      "skin_type": "Hair",
+      "top_speed": "48 mph",
+      "lifespan": "25 years",
+      "weight": "up to 600 pounds",
+      "height": "4 feet",
+      "length": "6-7 feet",
+      "age_of_sexual_maturity": "3-4 years",
+      "age_of_weaning": "6-7 months"
+    }
+  },
+  {
+    "name": "Golden Lion Tamarin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Callitrichidae",
+      "genus": "Leontopithecus",
+      "scientific_name": "Leontopithecus rosalia"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Fruit, Insects, Small Mammals, Small Reptiles",
+      "habitat": "Lowland tropical forest",
+      "predators": "Hawks, Wild Cats, Snakes, Rats",
+      "diet": "Omnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Troop",
+      "favorite_food": "Fruit",
+      "type": "Mammal",
+      "slogan": "Native to the eastern rainforests of Brazil!",
+      "color": "BrownBlackGoldOrange",
+      "skin_type": "Hair",
+      "top_speed": "24 mph",
+      "lifespan": "8-15 years",
+      "weight": "550-700g (19-25oz)"
+    }
+  },
+  {
+    "name": "Lion",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "scientific_name": "Panthera leo"
+    },
+    "locations": [
+      "Africa",
+      "Asia"
+    ],
+    "characteristics": {
+      "prey": "Antelope, Warthog, Zebra",
+      "name_of_young": "Cub",
+      "group_behavior": "Pride",
+      "estimated_population_size": "23,000",
+      "biggest_threat": "Habitat loss",
+      "most_distinctive_feature": "Long and thick hairy mane of the male around the face",
+      "other_name(s)": "African Lion",
+      "gestation_period": "110 days",
+      "habitat": "open woodland, scrub, grassland",
+      "diet": "Carnivore",
+      "average_litter_size": "3",
+      "lifestyle": "Diurnal/Nocturnal",
+      "common_name": "Lion",
+      "number_of_species": "2",
+      "location": "sub-Saharan Africa",
+      "slogan": "Lives in small groups called prides!",
+      "group": "Mammal",
+      "color": "BrownGoldTawnyBlonde",
+      "skin_type": "Fur",
+      "top_speed": "35 mph",
+      "lifespan": "8 - 15 years",
+      "weight": "120kg - 249kg (264lbs - 550lbs)",
+      "length": "1.4m - 2.5m (4.7ft - 8.2ft)",
+      "age_of_sexual_maturity": "2 - 3 years",
+      "age_of_weaning": "6 months"
+    }
+  },
+  {
+    "name": "Lion’s Mane Jellyfish",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "scientific_name": "Cyanea capillata"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, zooplankton, shrimp, other jellyfish",
+      "group_behavior": "Solitary/School",
+      "estimated_population_size": "Possibly millions its IUCN conservation status is unevaluated, but not in danger of extinction",
+      "biggest_threat": "Pollution",
+      "most_distinctive_feature": "Its size",
+      "other_name(s)": "Giant jellyfish, hair jellyfish, hair jellyfish, mane jellyfish, Arctic red jellyfish, sea nettle, sea blubber, winter jellyfish",
+      "gestation_period": "One day",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "Cooler ocean waters",
+      "predators": "Seabirds, sea turtles, anemones, ocean sunfish, larger jellies but only when the jellyfish is a juvenile.",
+      "diet": "Carnivore",
+      "type": "Cnidarian",
+      "common_name": "Lion’s Mane Jellyfish",
+      "number_of_species": "1",
+      "color": "YellowRedWhiteOrangePurple",
+      "lifespan": "One year",
+      "weight": "200 pounds",
+      "length": "As much as 120 feet"
+    }
+  },
+  {
+    "name": "Lionfish",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Scorpaeniformes",
+      "family": "Scorpaenidae",
+      "genus": "Pterois",
+      "scientific_name": "Pterois volitans"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Shrimp, Crabs",
+      "distinctive_feature": "Striped body markings with long spines",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1 - 8.4",
+      "habitat": "Tropical reefs and rocky crevices",
+      "predators": "Eels, Frogfish, Scorpion Fish",
+      "diet": "Carnivore",
+      "favorite_food": "Fish",
+      "common_name": "Lionfish",
+      "average_clutch_size": "8000",
+      "slogan": "Females can release up to 15,000 eggs at a time!",
+      "color": "BrownRedBlackWhiteOrange",
+      "skin_type": "Scales",
+      "lifespan": "10 - 18 years",
+      "length": "30cm - 35cm (12in - 14in)"
+    }
+  },
+  {
+    "name": "Mountain Lion",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Puma",
+      "scientific_name": "Felis Concolor"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Deer, Elk, Beavers",
+      "litter_size": "3",
+      "habitat": "Forest and mountainous regions",
+      "predators": "Human, Grizzly Bear",
+      "diet": "Carnivore",
+      "lifestyle": "Solitary",
+      "favorite_food": "Deer",
+      "type": "Mammal",
+      "origin": "3",
+      "slogan": "Has no real natural predators!",
+      "color": "BrownBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "30 mph",
+      "lifespan": "10-20 years",
+      "weight": "29-90kg (64-198lbs)"
+    }
+  },
+  {
+    "name": "Sea Lion",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Otariidae",
+      "scientific_name": "Otariidae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crabs, Squid",
+      "habitat": "Coastal waters and rocky shorelines",
+      "predators": "Human, Sharks, Killer Whale",
+      "diet": "Omnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Fish",
+      "type": "Mammal",
+      "slogan": "It's flippers allow it to walk on the land",
+      "color": "BrownGreyTan",
+      "skin_type": "Fur",
+      "top_speed": "27 mph",
+      "lifespan": "15-22 years",
+      "weight": "300-1,000kg (660-2,200lbs)"
+    }
+  },
+  {
+    "name": "American Foxhound",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "distinctive_feature": "Long legs and wide, flat ears",
+      "temperament": "Mix of affectionate, loving, and stubborn",
+      "training": "Medium",
+      "diet": "Omnivore",
+      "average_litter_size": "7",
+      "type": "Hound",
+      "common_name": "American Foxhound",
+      "slogan": "Sweet, kind, loyal, and very loving!",
+      "group": "Dog",
+      "color": "BlackWhiteTan",
+      "skin_type": "Hair",
+      "lifespan": "10 to 12 years"
+    }
+  },
+  {
+    "name": "Arctic Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes lagopus"
+    },
+    "locations": [
+      "Eurasia",
+      "Europe",
+      "North-America"
+    ],
+    "characteristics": {
+      "main_prey": "Lemmings, voles, hares, other small rodents, berries, insects",
+      "name_of_young": "kit",
+      "distinctive_feature": "Thick fur that changes colour with season",
+      "habitat": "Polar forest regions",
+      "predators": "Snowy Owl, Wolf, Polar Bear",
+      "diet": "Carnivore",
+      "average_litter_size": "5",
+      "lifestyle": "Solitary",
+      "favorite_food": "Lemmings",
+      "type": "Mammal",
+      "slogan": "Extremely thick winter fur!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Fur",
+      "top_speed": "30 mph",
+      "lifespan": "7 - 10 years",
+      "weight": "1.4kg - 9.4kg (3lbs - 21lbs)",
+      "length": "70cm - 110cm (28in - 43in)"
+    }
+  },
+  {
+    "name": "Cross Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes vulpes"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Birds, small mammals, insects, spiders, worms, reptiles",
+      "name_of_young": "Cub, pup, kit",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Tens of thousands",
+      "biggest_threat": "Humans, wolves, coyotes, mountain lions, eagles, bears",
+      "most_distinctive_feature": "The cross on its back.",
+      "gestation_period": "49 to 55 days",
+      "litter_size": "5-13 cubs",
+      "habitat": "Forests, prairies, deserts, mountains, cities, suburbs, tundra, scrub, near rivers, farms",
+      "predators": "Gray wolves, coyotes, eagles, bears, humans and cougars",
+      "diet": "Carnivore",
+      "type": "mammal",
+      "common_name": "cross fox",
+      "location": "North America and Canada",
+      "color": "RedBlackSilver",
+      "skin_type": "Fur",
+      "top_speed": "31 mph",
+      "lifespan": "10 to 15 years in captivity, seven years in the wild",
+      "height": "14 to 20 inches",
+      "length": "18 to 35 inches with 12 to 22 inch long tails, males a bit larger",
+      "age_of_sexual_maturity": "10 months",
+      "age_of_weaning": "56 to 70 days"
+    }
+  },
+  {
+    "name": "Darwin’s fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Lycalopex",
+      "scientific_name": "Lycalopex fulvipes"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Small mammals, reptiles, insects and other invertebrates",
+      "name_of_young": "Pup, cub, kit",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "639 adults, conservation status endangered",
+      "biggest_threat": "Habitat fragmentation, feral and domesticated dogs",
+      "most_distinctive_feature": "Its small size",
+      "other_name(s)": "Darwin's zorro, zorro chilote, zorro de Darwin",
+      "gestation_period": "Perhaps two months",
+      "litter_size": "Two to three",
+      "habitat": "Temperate rainforests, shrubland",
+      "diet": "Omnivore",
+      "type": "Mammal",
+      "number_of_species": "1",
+      "location": "Chile",
+      "color": "GreyRedBlack",
+      "skin_type": "Fur",
+      "top_speed": "45 mph",
+      "lifespan": "Seven years",
+      "weight": "4 to 8.7 pounds",
+      "length": "20.79 inches",
+      "age_of_sexual_maturity": "About one year",
+      "age_of_weaning": "About two months"
+    }
+  },
+  {
+    "name": "English Foxhound",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Friendly, independent, affectionate",
+      "diet": "Omnivore",
+      "color": "BlackWhiteTanMulti-colored",
+      "skin_type": "Hair",
+      "lifespan": "10 to 13 years",
+      "weight": "75 pounds"
+    }
+  },
+  {
+    "name": "Fennec Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes zerda"
+    },
+    "locations": [
+      "Africa",
+      "Asia"
+    ],
+    "characteristics": {
+      "prey": "Berries, Fruit, Rodents, Reptiles",
+      "name_of_young": "Kit",
+      "group_behavior": "Sociable",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Habitat loss and hunting",
+      "most_distinctive_feature": "Large, over-sized ears",
+      "gestation_period": "52 days",
+      "habitat": "Sandy and semi-arid desert",
+      "diet": "Omnivore",
+      "average_litter_size": "3",
+      "lifestyle": "Nocturnal",
+      "common_name": "Fennec Fox",
+      "number_of_species": "1",
+      "location": "North Africa",
+      "slogan": "Found in the African Sahara Desert!",
+      "group": "Mammal",
+      "color": "WhiteCreamSandy",
+      "skin_type": "Fur",
+      "top_speed": "25 mph",
+      "lifespan": "10 - 14 years",
+      "weight": "1kg - 1.5kg (2.2lbs - 3.3lbs)",
+      "length": "24cm -41cm (9in - 16in)",
+      "age_of_sexual_maturity": "9 months",
+      "age_of_weaning": "5 weeks"
+    }
+  },
+  {
+    "name": "Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes vulpes"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Eurasia",
+      "Europe",
+      "North-America"
+    ],
+    "characteristics": {
+      "main_prey": "Rabbits, Birds, Lizards",
+      "distinctive_feature": "Pointed ears and long bushy tail",
+      "habitat": "Woodland areas and urban parks",
+      "predators": "Human, Bears, Eagles",
+      "diet": "Carnivore",
+      "average_litter_size": "5",
+      "lifestyle": "Solitary",
+      "favorite_food": "Rabbit",
+      "type": "Mammal",
+      "slogan": "There are 12 different species in the world!",
+      "color": "BrownRedBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "29 mph",
+      "lifespan": "3 - 11 years",
+      "weight": "5kg - 11kg (11lbs - 24lbs)",
+      "length": "40cm - 83cm (16in - 33in)"
+    }
+  },
+  {
+    "name": "Fox Snakes",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "genus": "Pantherophis",
+      "scientific_name": "P. vulpinus and P. ramspotti"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Mice, rats, young rabbits, ground-nesting birds and sometimes their eggs, frogs, lizards",
+      "main_prey": "Mice and birds",
+      "name_of_young": "Hatchling",
+      "group_behavior": "Solitary",
+      "biggest_threat": "Mistaken identity, roads",
+      "most_distinctive_feature": "Copper or bronze-colored head",
+      "distinctive_feature": "Strongly patterned alternating blotches down the length of their spine.",
+      "temperament": "Shy, but generally docile.",
+      "litter_size": "6-30",
+      "predators": "Foxes, coyotes, hawks.",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnalor Nocturnal Depending on Region and Season",
+      "favorite_food": "Mice",
+      "common_name": "Fox snake",
+      "number_of_species": "-1",
+      "color": "BrownGreyBeigeChestnut",
+      "skin_type": "Scales",
+      "lifespan": "approximately 20 years"
+    }
+  },
+  {
+    "name": "Fox Squirrel",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Rodentia",
+      "family": "Sciuridae",
+      "genus": "Sciurus",
+      "scientific_name": "Sciurus niger"
+    },
+    "locations": [
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Insects, bird eggs",
+      "name_of_young": "Juveniles",
+      "group_behavior": "Social",
+      "biggest_threat": "Overhunting, forest destruction",
+      "most_distinctive_feature": "Large size and large, bushy tail",
+      "other_name(s)": "Bryant's fox, eastern fox, stump-eared, racoon, and monkey-faced squirrel",
+      "gestation_period": "44-45 days",
+      "litter_size": "2-4",
+      "habitat": "Leaf nests and tree dens",
+      "predators": "Birds of prey, carnivorous mammals",
+      "diet": "Omnivore",
+      "type": "rodent",
+      "common_name": "fox squirrel",
+      "number_of_species": "10",
+      "location": "Eastern and central United States",
+      "group": "social",
+      "color": "BrownGrey-Brown",
+      "skin_type": "Fur",
+      "top_speed": "17 mph",
+      "lifespan": "6-12.6 years",
+      "length": "21 inches",
+      "age_of_sexual_maturity": "10-11 months",
+      "age_of_weaning": "2 months"
+    }
+  },
+  {
+    "name": "Fox Terrier",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Fox Terrier",
+      "slogan": "First bred in the mid-19th century!",
+      "group": "Terrier",
+      "skin_type": "Hair",
+      "lifespan": "14 years",
+      "weight": "8kg (18lbs)"
+    }
+  },
+  {
+    "name": "Golden-Crowned Flying Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Pteropodidae",
+      "genus": "Acerodon",
+      "scientific_name": "Acerodon jubatus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "name_of_young": "Pup",
+      "group_behavior": "Group",
+      "estimated_population_size": "10,000 – 20,000",
+      "biggest_threat": "Human hunters",
+      "most_distinctive_feature": "Soft golden cap",
+      "litter_size": "One",
+      "habitat": "Caves and forests",
+      "predators": "Reticulated pythons, eagles, humans",
+      "diet": "Herbivore",
+      "favorite_food": "Figs, leaves, some other fruits",
+      "common_name": "Golden crowned flying fox",
+      "group": "They live in large gatherings in the woods",
+      "color": "BlackGold",
+      "skin_type": "Hair",
+      "lifespan": "unknown",
+      "weight": "3.1 pounds",
+      "height": "7 and 11.4 inches",
+      "age_of_sexual_maturity": "2 years for females"
+    }
+  },
+  {
+    "name": "Gray Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Urocyon",
+      "scientific_name": "Urocyon cinereoargenteus"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Rodents, birds, insects, and fruit",
+      "name_of_young": "Pups or kits",
+      "group_behavior": "SolitaryFamily units",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Hunting and habitat loss",
+      "most_distinctive_feature": "The silver gray coat of fur",
+      "other_name(s)": "Tree fox or cat fox",
+      "gestation_period": "53-63 days",
+      "litter_size": "1-7 kits",
+      "habitat": "Forests and plains",
+      "diet": "Omnivore",
+      "type": "Mammal",
+      "common_name": "Gray Fox",
+      "number_of_species": "1",
+      "location": "North America and northern part of South America",
+      "color": "GreyRedBlackWhite",
+      "skin_type": "Fur",
+      "top_speed": "28 mph",
+      "lifespan": "6-12 years",
+      "weight": "3.2-6.4kg (7-14lbs)",
+      "height": "30-40cm (12-16in)",
+      "length": "89-105cm (35-41in)",
+      "age_of_sexual_maturity": "10 months",
+      "age_of_weaning": "2-6 weeks"
+    }
+  },
+  {
+    "name": "Kit Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes macrotis merriam"
+    },
+    "locations": [
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "kangaroo rat, cottontail, jackrabbit, reptiles, insects, birds",
+      "name_of_young": "pup",
+      "group_behavior": "Solitary",
+      "biggest_threat": "habitat destruction, competition from coyotes",
+      "most_distinctive_feature": "tiny bodies and enormous ears",
+      "gestation_period": "49 - 55 days",
+      "litter_size": "one to seven pups",
+      "habitat": "desert, grasslands",
+      "predators": "coyotes, bobcats, red foxes, birds of prey",
+      "diet": "Omnivore",
+      "type": "mammal",
+      "common_name": "kit fox",
+      "number_of_species": "1",
+      "location": "Southwest United States, North and Central Mexico",
+      "group": "solitary",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Fur",
+      "top_speed": "25 mph",
+      "lifespan": "seven years in the wild. 12 years in captivity",
+      "weight": "4.5 to five pounds",
+      "height": "nine to 12 inches",
+      "length": "20 inches (body), 12 inches (tail)",
+      "age_of_sexual_maturity": "10 months",
+      "age_of_weaning": "eight weeks"
+    }
+  },
+  {
+    "name": "Marble Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes vulpes"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Rodents, birds, reptiles, insects, and more",
+      "name_of_young": "Kits",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Fur industry",
+      "most_distinctive_feature": "The marble-colored coat",
+      "other_name(s)": "Canadian marble fox or Arctic marble fox",
+      "gestation_period": "Up to 2 months",
+      "litter_size": "1-13 kits",
+      "habitat": "Human captivity",
+      "predators": "None in captivity",
+      "diet": "Omnivore",
+      "type": "Mammal",
+      "common_name": "Marble fox",
+      "number_of_species": "1",
+      "location": "Worldwide",
+      "color": "BrownBlackWhite",
+      "skin_type": "Fur",
+      "top_speed": "30 mph",
+      "lifespan": "Up to 15 years",
+      "weight": "1-10kg (3-21lbs)",
+      "height": "Up to 69cm (27in)",
+      "length": "Up to 63cm (25in) in body length, not including the tail",
+      "age_of_sexual_maturity": "10 months",
+      "age_of_weaning": "50-70 days"
+    }
+  },
+  {
+    "name": "Red Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes vulpes"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "North-America",
+      "Oceania"
+    ],
+    "characteristics": {
+      "prey": "Rabbits, mice, voles, birds, frogs, fish, eggs, and fruits and vegetables",
+      "name_of_young": "Kits or pups",
+      "group_behavior": "Family units",
+      "estimated_population_size": "Millions",
+      "biggest_threat": "Hunting",
+      "most_distinctive_feature": "The bushy tail",
+      "other_name(s)": "Silver fox or cross fox",
+      "gestation_period": "49-55 days",
+      "litter_size": "1-13",
+      "habitat": "Forests, grasslands, tundra, prairie, deserts, and mountains",
+      "predators": "Wolves, cougars, lynxes, bobcats, eagles, and owls",
+      "diet": "Omnivore",
+      "average_litter_size": "1-13",
+      "common_name": "Red fox",
+      "number_of_species": "1",
+      "location": "North America, Europe, Asia, North Africa, and Australia",
+      "color": "BrownGreyRedBlackSilver",
+      "skin_type": "Hair",
+      "top_speed": "31 mph",
+      "lifespan": "2-4 years in the wild, 10-12 in captivity",
+      "weight": "6.5-24 lbs",
+      "height": "16 inches",
+      "length": "36-42 inches",
+      "age_of_sexual_maturity": "10 months",
+      "age_of_weaning": "56-70 days"
+    }
+  },
+  {
+    "name": "Smooth Fox Terrier",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Energetic and curious",
+      "diet": "Omnivore",
+      "color": "BrownBlackWhiteTan",
+      "skin_type": "Hair",
+      "lifespan": "12 – 15 years",
+      "height": "18 lbs"
+    }
+  },
+  {
+    "name": "Tibetan Fox",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Vulpes",
+      "scientific_name": "Vulpes ferrilata"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "main_prey": "pikas, marmots, rodents, lizards, and other small prey",
+      "name_of_young": "Kits",
+      "group_behavior": "Pair",
+      "estimated_population_size": "40,000",
+      "biggest_threat": "Pika population reduction",
+      "most_distinctive_feature": "Square-shaped skull",
+      "other_name(s)": "Tibetan sand fox",
+      "gestation_period": "50-60 days",
+      "litter_size": "2-4",
+      "habitat": "Tibetan Plateau",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "type": "Mammal",
+      "common_name": "Tibetan fox",
+      "color": "GreyTan",
+      "skin_type": "Fur",
+      "top_speed": "44 mph",
+      "lifespan": "8-10 years",
+      "weight": "8-12 lbs (4-5 kg)",
+      "length": "24-28 in (60-70 cm)",
+      "age_of_sexual_maturity": "1 year",
+      "age_of_weaning": "5-9 weeks"
+    }
+  },
+  {
+    "name": "Toy Fox Terrier",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Intelligent, friendly, alert, playful, loyal, spirited",
+      "diet": "Omnivore",
+      "color": "BlackWhiteTanChocolate",
+      "skin_type": "Hair",
+      "lifespan": "11-14 years",
+      "weight": "13 pounds"
+    }
+  },
+  {
+    "name": "Wire Fox Terrier",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Alert, friendly, and confident",
+      "diet": "Omnivore",
+      "color": "BlackWhiteTan",
+      "skin_type": "Hair",
+      "lifespan": "13 – 14 years",
+      "weight": "19 lbs"
+    }
+  },
+  {
+    "name": "African Wild Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Lycaon",
+      "scientific_name": "Lycaon pictus"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "prey": "Antelope, Warthog, Rodents",
+      "name_of_young": "Pup",
+      "group_behavior": "Pack",
+      "estimated_population_size": "Less than 5,000",
+      "biggest_threat": "Habitat loss",
+      "most_distinctive_feature": "Four toes on each foot rather than five",
+      "other_name(s)": "Hunting Dog, Painted Dog, Painted Wolf",
+      "gestation_period": "70 days",
+      "habitat": "Open plains and savanna",
+      "predators": "Lions, Hyenas, Humans",
+      "diet": "Carnivore",
+      "average_litter_size": "8",
+      "lifestyle": "Crepuscular",
+      "common_name": "African Wild Dog",
+      "number_of_species": "1",
+      "location": "sub-Saharan Africa",
+      "slogan": "Also known as the painted dog!",
+      "group": "Mammal",
+      "color": "BrownGreyRedBlackWhiteGoldTan",
+      "skin_type": "Fur",
+      "top_speed": "45 mph",
+      "lifespan": "10 - 13 years",
+      "weight": "17kg - 36kg (39lbs - 79lbs)",
+      "length": "75cm - 110cm (29in - 43in)",
+      "age_of_sexual_maturity": "12 - 18 months",
+      "age_of_weaning": "3 months"
+    }
+  },
+  {
+    "name": "American Bulldog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "distinctive_feature": "Small pendant shaped ears and strong body",
+      "temperament": "Assertive but loyal and friendly",
+      "training": "Hard",
+      "diet": "Omnivore",
+      "average_litter_size": "8",
+      "type": "Mastiff",
+      "common_name": "American Bulldog",
+      "slogan": "Can jump up to 6ft high!",
+      "group": "Dog",
+      "color": "BrownRedBlackWhiteTanBrindle",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "American Dog Tick",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Ixodida",
+      "family": "Ixodidae",
+      "genus": "Dermacentor",
+      "scientific_name": "Dermacentor variabilis"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Blood",
+      "name_of_young": "Larvae",
+      "group_behavior": "Solitary",
+      "biggest_threat": "Ingestion by mites or nematodes",
+      "most_distinctive_feature": "Brown bodies with variable tan markings",
+      "other_name(s)": "Wood tick, dog tick",
+      "gestation_period": "1-30 days",
+      "litter_size": "3,000-5,000 eggs",
+      "diet": "Omnivore",
+      "type": "Arachnid",
+      "common_name": "Dog tick",
+      "number_of_species": "1",
+      "location": "North America",
+      "group": "Ticks",
+      "color": "Brown",
+      "skin_type": "Exoskeleton",
+      "lifespan": "1-5 years",
+      "length": "3-15 mm",
+      "age_of_sexual_maturity": "50-600 days"
+    }
+  },
+  {
+    "name": "American Eskimo Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe",
+      "North-America"
+    ],
+    "characteristics": {
+      "distinctive_feature": "Bright, white coat and pointed ears",
+      "temperament": "Playful and smart",
+      "training": "Fairly easy",
+      "diet": "Omnivore",
+      "average_litter_size": "5",
+      "common_name": "American Eskimo Dog",
+      "slogan": "The American Eskimo has splendid all white fur and an upturned tail",
+      "group": "Dog",
+      "color": "White",
+      "skin_type": "Hair",
+      "lifespan": "13 - 15 years"
+    }
+  },
+  {
+    "name": "Anatolian Shepherd Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Courageous, powerful, protective, calm and devoted.",
+      "training": "Should be trained from an early age and respond best to motivational training as they can be dominant and stubborn",
+      "litter_size": "5-10 pups",
+      "diet": "Omnivore",
+      "average_litter_size": "9",
+      "common_name": "Anatolian Shepherd Dog",
+      "slogan": "Guards it's master's flocks!",
+      "group": "Guard",
+      "color": "BrownFawnRedBlueWhiteBrindleCream",
+      "skin_type": "Hair",
+      "lifespan": "11-13 years",
+      "weight": "80-150 pounds",
+      "height": "27-29 inches"
+    }
+  },
+  {
+    "name": "Appenzeller Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Energetic and alert",
+      "training": "Should be trained from an early age and respond best to firm and consistent training",
+      "diet": "Omnivore",
+      "average_litter_size": "6",
+      "common_name": "Appenzeller Dog",
+      "origin": "Switzerland",
+      "slogan": "Herding dog by nature!",
+      "group": "Sennenhund",
+      "color": "BlackWhiteTan",
+      "skin_type": "Hair",
+      "lifespan": "12 – 14 years"
+    }
+  },
+  {
+    "name": "Australian Bulldog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Hemichordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Oceania"
+    ],
+    "characteristics": {
+      "temperament": "Intelligent, fiercely loyal, and sweet-natured",
+      "diet": "Omnivore",
+      "color": "FawnRedBrindleOrangePeachBlack-Brown",
+      "skin_type": "Hair",
+      "lifespan": "12 years",
+      "weight": "78 lbs"
+    }
+  },
+  {
+    "name": "Australian Cattle Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Oceania"
+    ],
+    "characteristics": {
+      "temperament": "Strong minded yet loyal and loving",
+      "training": "Should be trained from an early age and respond best to firm and fair training",
+      "diet": "Omnivore",
+      "average_litter_size": "5",
+      "common_name": "Australian Cattle Dog",
+      "slogan": "High energy levels and active minds!",
+      "group": "Herd Dog",
+      "color": "GreyRedBlack",
+      "skin_type": "Hair",
+      "lifespan": "13-15 years",
+      "height": "17-20 inches"
+    }
+  },
+  {
+    "name": "Australian Kelpie Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Oceania"
+    ],
+    "characteristics": {
+      "temperament": "Alert and intelligent",
+      "training": "Should be trained from an early age and should be firm but fair",
+      "diet": "Omnivore",
+      "average_litter_size": "5",
+      "common_name": "Australian Kelpie Dog",
+      "slogan": "Friendly, intelligent and energetic!",
+      "group": "Herd Dog",
+      "color": "BrownRedBlackTan",
+      "skin_type": "Hair",
+      "lifespan": "10 to 13 years",
+      "weight": "25 to 45 pounds",
+      "height": "17 to 20 inches"
+    }
+  },
+  {
+    "name": "Basenji Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Africa"
+    ],
+    "characteristics": {
+      "temperament": "Loyal, stubborn, and affectionate",
+      "training": "Should be trained from an early age as their independent nature can make them stubborn",
+      "diet": "Omnivore",
+      "average_litter_size": "5",
+      "common_name": "Basenji Dog",
+      "slogan": "Alert, affectionate and energetic!",
+      "color": "BrownRedBlackWhiteTanBrindle",
+      "skin_type": "Hair",
+      "lifespan": "12-14 years",
+      "weight": "24, lbs"
+    }
+  },
+  {
+    "name": "Bernese Mountain Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Intelligent, friendly and alert",
+      "training": "Should be trained from an early age due to their large size",
+      "diet": "Omnivore",
+      "average_litter_size": "7",
+      "common_name": "Bernese Mountain Dog",
+      "slogan": "Very loyal, faithful and affectionate!",
+      "group": "Sennenhund",
+      "color": "BlackWhiteTan",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Blue Lacy Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "temperament": "Intelligent, active and alert",
+      "training": "Should be trained from an early age as they can become dominant",
+      "diet": "Omnivore",
+      "average_litter_size": "5",
+      "common_name": "Blue Lacy Dog",
+      "slogan": "Originated in Texas in the mid 1800s!",
+      "group": "Herd",
+      "color": "BrownGreyFawnBlueWhiteTanCream",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Bolognese Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Devoted and lively, yet docile",
+      "training": "Should be trained from an early age due to their hyperactive nature",
+      "diet": "Omnivore",
+      "average_litter_size": "4",
+      "common_name": "Bolognese Dog",
+      "slogan": "From the northern Italian city of Bologna!",
+      "group": "Gun Dog",
+      "color": "White",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Boxer Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Intelligent, fearless and strong",
+      "training": "Should be trained from an early age due to their independent nature",
+      "diet": "Omnivore",
+      "average_litter_size": "8",
+      "common_name": "Boxer Dog",
+      "slogan": "Bright, energetic and playful!",
+      "group": "Mastiff",
+      "color": "BrownBlackTan",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Brown Dog Tick",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Ixodida",
+      "family": "Ixodidae",
+      "genus": "Rhipicephalus",
+      "scientific_name": "Rhipicephalus sanguineus"
+    },
+    "locations": [
+      "Africa",
+      "Antarctica",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Blood",
+      "name_of_young": "Larvae",
+      "group_behavior": "Solitary",
+      "biggest_threat": "Ingestion by mites or nematodes",
+      "most_distinctive_feature": "Narrow, almost rectangular body",
+      "other_name(s)": "Kennel tick, dog tick",
+      "gestation_period": "1-30 days",
+      "litter_size": "3,000-7,000 eggs",
+      "diet": "Omnivore",
+      "type": "Arachnid",
+      "common_name": "Dog tick",
+      "number_of_species": "1",
+      "location": "Everywhere humans live",
+      "group": "Ticks",
+      "color": "Brown",
+      "skin_type": "Exoskeleton",
+      "lifespan": "3-18 months",
+      "length": "2-10 mm",
+      "age_of_sexual_maturity": "30-600 days"
+    }
+  },
+  {
+    "name": "Bulldog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Gentle, calm and affectionate",
+      "training": "Should be trained from an early age due to their stubborn nature",
+      "diet": "Omnivore",
+      "average_litter_size": "10",
+      "common_name": "Bulldog",
+      "slogan": "Friendly, loving and docile!",
+      "group": "Mastiff",
+      "color": "BrownFawnBlackWhiteTan",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Canaan Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Canaan Dog",
+      "slogan": "Has a strong survival instinct!",
+      "group": "South",
+      "skin_type": "Hair",
+      "lifespan": "15 years",
+      "weight": "25kg (55lbs)"
+    }
+  },
+  {
+    "name": "Canadian Eskimo Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "estimated_population_size": "300",
+      "temperament": "Affectionate, loving, loyal",
+      "diet": "Omnivore",
+      "common_name": "Canadian Eskimo Dog",
+      "skin_type": "Hair",
+      "lifespan": "10 to 15 years"
+    }
+  },
+  {
+    "name": "Carolina Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Carolina Dog",
+      "slogan": "Wild dog breed discovered in the 1970s!",
+      "group": "South",
+      "skin_type": "Hair",
+      "lifespan": "19 years",
+      "weight": "18kg (40lbs)"
+    }
+  },
+  {
+    "name": "Catalan Sheepdog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "name_of_young": "Puppy",
+      "litter_size": "3-6 puppies",
+      "diet": "Omnivore",
+      "color": "BrownGreyFawnRedBlackTan",
+      "lifespan": "13 years"
+    }
+  },
+  {
+    "name": "Chinese Crested Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Chinese Crested Dog",
+      "slogan": "A hairless breed of dog!",
+      "group": "South",
+      "skin_type": "Hair",
+      "lifespan": "13 years",
+      "weight": "4.5kg (10lbs)"
+    }
+  },
+  {
+    "name": "Czechoslovakian Wolfdog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "name_of_young": "puppy",
+      "most_distinctive_feature": "upright, triangle ears",
+      "temperament": "Intelligent, athletic, and loyal",
+      "litter_size": "6-7 puppies",
+      "diet": "Omnivore",
+      "type": "mammal",
+      "origin": "Czechoslovakia and Slovakia",
+      "color": "GreySilver",
+      "skin_type": "Hair",
+      "top_speed": "62 mph",
+      "lifespan": "10-15 years"
+    }
+  },
+  {
+    "name": "Dog Tick",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Ixodida",
+      "family": "Ixodidae",
+      "genus": "Dermacentor",
+      "scientific_name": "Dermacentor variabilis"
+    },
+    "locations": [
+      "Africa",
+      "Antarctica",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Blood",
+      "name_of_young": "Larvae",
+      "group_behavior": "Solitary",
+      "biggest_threat": "Ingestion by mites or nematodes",
+      "most_distinctive_feature": "Ability to expand greatly in size",
+      "other_name(s)": "American dog tick, brown dog tick",
+      "gestation_period": "1-30 days",
+      "litter_size": "2,000-7,000 eggs",
+      "diet": "Omnivore",
+      "type": "Arachnid",
+      "common_name": "Dog tick",
+      "number_of_species": "2",
+      "location": "Everywhere humans live",
+      "color": "Brown",
+      "skin_type": "Exoskeleton",
+      "lifespan": "2-3 years",
+      "length": "2-15 mm",
+      "age_of_sexual_maturity": "30-600 days"
+    }
+  },
+  {
+    "name": "Dogo Argentino",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Dogo Argentino",
+      "slogan": "Loyal and affectionate to their family!",
+      "group": "Mastiff",
+      "skin_type": "Hair",
+      "lifespan": "13 years",
+      "weight": "45kg (100lbs)"
+    }
+  },
+  {
+    "name": "Dogue De Bordeaux",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Dogue De Bordeaux",
+      "slogan": "Extremely loyal and devoted to it's master!",
+      "group": "Mastiff",
+      "skin_type": "Hair",
+      "lifespan": "8 years",
+      "weight": "45kg (100lbs)"
+    }
+  },
+  {
+    "name": "English Bulldog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "lifespan": "8-10 years",
+      "weight": "49-55 lbs"
+    }
+  },
+  {
+    "name": "Entlebucher Mountain Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Intelligent, affectionate, stubborn",
+      "diet": "Omnivore",
+      "common_name": "Entlebucher Mountain Dog",
+      "slogan": "Native to parts of the Swiss Alps!",
+      "group": "Sennenhund",
+      "color": "BlackWhiteTan",
+      "skin_type": "Hair",
+      "lifespan": "12 years",
+      "weight": "30kg (65lbs)"
+    }
+  },
+  {
+    "name": "Eskimo Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Eskimo Dog",
+      "slogan": "Takes pure delight in cold weather!",
+      "group": "North",
+      "skin_type": "Hair",
+      "lifespan": "14 years",
+      "weight": "47kg (105lbs)"
+    }
+  },
+  {
+    "name": "Estrela Mountain Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Estrela Mountain Dog",
+      "slogan": "Very protective and stubborn!",
+      "group": "Guard",
+      "skin_type": "Hair",
+      "lifespan": "16 years",
+      "weight": "47kg (105lbs)"
+    }
+  },
+  {
+    "name": "Formosan Mountain Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "name_of_young": "Puppy",
+      "temperament": "Loyal, intelligent, and protective",
+      "litter_size": "10-12 puppies",
+      "diet": "Omnivore",
+      "type": "mammal",
+      "origin": "Taiwan",
+      "color": "FawnBlackWhiteBrindle",
+      "skin_type": "Hair",
+      "lifespan": "10-13 years"
+    }
+  },
+  {
+    "name": "French Bulldog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Affectionate, friendly, attention-demanding",
+      "diet": "Omnivore",
+      "common_name": "French Bulldog",
+      "slogan": " French bulldogs are known to be very sensitive, harboring emotions that they love to express",
+      "group": "Mastiff",
+      "color": "FawnWhiteTanBrindle",
+      "skin_type": "Hair",
+      "lifespan": "10 to 12 years",
+      "weight": "28 lbs"
+    }
+  },
+  {
+    "name": "Greater Swiss Mountain Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Greater Swiss Mountain Dog",
+      "slogan": "Protective and gentle by nature!",
+      "group": "Sennenhund",
+      "skin_type": "Hair",
+      "lifespan": "12 years",
+      "weight": "59kg (130lbs)"
+    }
+  },
+  {
+    "name": "Greenland Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Greenland Dog",
+      "slogan": "Strong and speedy breed of dog!",
+      "color": "GreyBlack",
+      "skin_type": "Hair",
+      "lifespan": "12 years",
+      "weight": "30kg (66lbs)"
+    }
+  },
+  {
+    "name": "Icelandic Sheepdog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "name_of_young": "puppy",
+      "most_distinctive_feature": "very bushy tail",
+      "temperament": "Playful, affectionate, and curious",
+      "litter_size": "4-8 puppies",
+      "diet": "Omnivore",
+      "type": "mammal",
+      "origin": "Iceland",
+      "color": "GreyFawnRedBlackWhiteGoldTanCreamChocolate",
+      "skin_type": "Hair",
+      "top_speed": "21 mph",
+      "lifespan": "12-14 years"
+    }
+  },
+  {
+    "name": "Moscow Watchdog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Eurasia"
+    ],
+    "characteristics": {
+      "temperament": "Gentle and powerful",
+      "diet": "Omnivore",
+      "color": "RedBlackWhite",
+      "skin_type": "Hair",
+      "lifespan": "9 to 11 years",
+      "weight": "150 lbs"
+    }
+  },
+  {
+    "name": "Northern Inuit Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Intelligent, friendly, and loyal",
+      "diet": "Carnivore",
+      "common_name": "Northern Inuit Dog",
+      "color": "GreyBlackWhite",
+      "skin_type": "Hair",
+      "lifespan": "12 to 15 years"
+    }
+  },
+  {
+    "name": "Old English Sheepdog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis Lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "common_name": "Old English Sheepdog",
+      "slogan": "Intelligent, sociable and playful!",
+      "group": "Herd",
+      "skin_type": "Hair",
+      "lifespan": "12 years",
+      "weight": "30kg (66lbs)"
+    }
+  },
+  {
+    "name": "Polish Lowland Sheepdog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "temperament": "Playful and a quick learner",
+      "diet": "Omnivore",
+      "color": "BrownGreyBlackWhiteBeige",
+      "skin_type": "Hair",
+      "lifespan": "12 to 14 years",
+      "weight": "50 lbs"
+    }
+  },
+  {
+    "name": "Prairie Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Rodentia",
+      "family": "Sciuridae",
+      "genus": "Cynomys"
+    },
+    "locations": [
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Roots, grasses, seeds, and insects",
+      "name_of_young": "Pups",
+      "group_behavior": "ColonyFamily units",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Hunting and loss of habitats",
+      "most_distinctive_feature": "The sharp digging claws",
+      "other_name(s)": "Ground squirrel",
+      "gestation_period": "1 month",
+      "litter_size": "3-8 pups",
+      "habitat": "Prairies",
+      "predators": "Coyotes, badgers, ferrets, foxes, and birds of prey",
+      "diet": "Omnivore",
+      "type": "Mammal",
+      "common_name": "Prairie Dog",
+      "number_of_species": "5",
+      "location": "Western United States and Mexico",
+      "color": "BrownGreyBlackWhiteTan",
+      "skin_type": "Hair",
+      "top_speed": "35 mph",
+      "lifespan": "3-4 years on average",
+      "weight": "0.5-1.8kg (1-4lbs)",
+      "height": "15-18cm (6-7.3in)",
+      "length": "30-40cm (12-16in)",
+      "age_of_sexual_maturity": "1 year",
+      "age_of_weaning": "1-2 months"
+    }
+  },
+  {
+    "name": "Raccoon Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Nyctereutes",
+      "scientific_name": "Nyctereutes procyonoides"
+    },
+    "locations": [
+      "Asia",
+      "Eurasia",
+      "Europe"
+    ],
+    "characteristics": {
+      "main_prey": "Frogs, Fish, Rodents",
+      "distinctive_feature": "Dexterous front paws and pointed snout",
+      "habitat": "Thick forests close to water",
+      "predators": "Foxes, Wolves, Wildcats",
+      "diet": "Carnivore",
+      "average_litter_size": "8",
+      "lifestyle": "Pack",
+      "favorite_food": "Frogs",
+      "type": "Mammal",
+      "slogan": "The only hibernating canine!",
+      "color": "BrownYellowBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "25 mph",
+      "lifespan": "3 - 8 years",
+      "weight": "3kg - 10kg (6.6lbs - 22lbs)",
+      "length": "50cm - 65cm (19.6in - 26in)"
+    }
+  },
+  {
+    "name": "Russian Bear Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Eurasia"
+    ],
+    "characteristics": {
+      "temperament": "Bold and Fearless",
+      "diet": "Omnivore",
+      "color": "BrownGreyBlackCream",
+      "skin_type": "Hair",
+      "lifespan": "10 to 12 years",
+      "weight": "170 pounds",
+      "height": "23 to 30 inches"
+    }
+  },
+  {
+    "name": "Saarloos Wolfdog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis",
+      "scientific_name": "Canis lupus"
+    },
+    "locations": [
+      "Europe"
+    ],
+    "characteristics": {
+      "diet": "Omnivore",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Spiny Dogfish",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Squaliformes",
+      "family": "Squalidae",
+      "genus": "Squalus",
+      "scientific_name": "Squalus acanthias"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Octopuses, crabs, squid, smaller sharks, jellyfish, shrimp, and sea cucumber",
+      "main_prey": "Fish, Squid, Crustaceans",
+      "group_behavior": "Pack",
+      "estimated_population_size": "Biomass of 106.8 thousand metric tons in the Atlantic Ocean; 44,660,000 fish in the Pacific Ocean",
+      "biggest_threat": "Overfishing",
+      "other_name(s)": "Dogfish Shark, Spiky Dog, Piked Dogfish, Rock Salmon, Spring Dogfish, White-Spotted Dogfish Predators: Sharks, Seals, Orcas, Tuna, American Anglerfish, Humans",
+      "water_type": "Salt",
+      "optimum_ph_level": "6.5-8.5",
+      "habitat": "Oceans and seas",
+      "predators": "Sharks, Whales, Humans",
+      "diet": "Carnivore",
+      "favorite_food": "Octopuses, crabs, squid, smaller sharks, jellyfish, shrimp, and sea cucumber",
+      "common_name": "Spiny Dogfish",
+      "number_of_species": "2",
+      "average_clutch_size": "6",
+      "slogan": "Found in ocean waters worldwide!",
+      "color": "BrownGreyBlackWhite",
+      "skin_type": "Smooth",
+      "lifespan": "Average of 20 to 24 years, but can live up to 50 years",
+      "weight": "8 pounds",
+      "length": "Maximum length of 39 inches (male); maximum length of 49 inches (female)"
+    }
+  },
+  {
+    "name": "Viper shark (dogfish)",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Squaliformes",
+      "family": "Etmopteridae",
+      "genus": "Trigonognathus",
+      "scientific_name": "Trigonognathus kabeyai"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Bony fish",
+      "estimated_population_size": "Not recorded",
+      "biggest_threat": "Bigeye tuna, sickle pomfret.",
+      "most_distinctive_feature": "Triangular jaw and fang-like teeth",
+      "other_name(s)": "Viper dogfish, viper shark.",
+      "water_type": "Salt",
+      "habitat": "Deep water, upper continental slopes, seamounts.",
+      "predators": "Bigeye tuna, sickle pomfret.",
+      "diet": "Carnivore",
+      "type": "Fish",
+      "common_name": "Viper dogfish",
+      "number_of_species": "1",
+      "color": "Black",
+      "skin_type": "Rough",
+      "weight": "Up to 1.7 lbs.",
+      "length": "up to 53 centimeters (21 inches)"
+    }
+  },
+  {
+    "name": "Basking Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Cetorhinidae",
+      "genus": "Cetorhinus",
+      "scientific_name": "Cetorhinus Maximus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Plankton, Invertebrates",
+      "distinctive_feature": "Enormous mouth and large body size",
+      "water_type": "Salt",
+      "optimum_ph_level": "5 - 7",
+      "habitat": "Temperate waters along continental shelves",
+      "predators": "Sharks, Humans, Killer Whales",
+      "diet": "Carnivore",
+      "favorite_food": "Fish",
+      "common_name": "Basking Shark",
+      "average_clutch_size": "6",
+      "slogan": "The second biggest fish in the world!",
+      "color": "BrownGreyBlack",
+      "skin_type": "Smooth",
+      "lifespan": "20 - 100 years",
+      "length": "6m - 12m (20ft - 39ft)"
+    }
+  },
+  {
+    "name": "Blue Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Prionace",
+      "scientific_name": "Prionace glauca"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Cephalopods and fish, injured marine mammals",
+      "group_behavior": "School",
+      "estimated_population_size": "At least 20 million",
+      "biggest_threat": "Humans",
+      "most_distinctive_feature": "Its blue coloration",
+      "other_name(s)": "Blue dog, blue whaler",
+      "gestation_period": "9 to 12 months",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "The deep, open ocean",
+      "predators": "Tiger sharks, great white sharks, orcas, humans, sea lions",
+      "diet": "Carnivore",
+      "type": "Fish",
+      "common_name": "Blue shark",
+      "number_of_species": "1",
+      "color": "GreyBlue",
+      "skin_type": "Rough",
+      "top_speed": "43 mph",
+      "lifespan": "15 years",
+      "weight": "60 to 121 pounds in males and 205 to 401 pounds in females",
+      "length": "11 feet"
+    }
+  },
+  {
+    "name": "Bonnethead Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Sphyrnidae",
+      "genus": "Sphyrna",
+      "scientific_name": "Sphyrna tiburo"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Crustaceans, cephalopods",
+      "group_behavior": "School",
+      "estimated_population_size": "Unknown, but the shark is abundant where it is found",
+      "biggest_threat": "Humans",
+      "most_distinctive_feature": "Its head",
+      "other_name(s)": "Bonnet shark, shovelhead shark, Bonnetnose shark, bonnet hammerhead",
+      "gestation_period": "4.5 to 5 months",
+      "water_type": "Brackish",
+      "habitat": "Warm, offshore waters",
+      "predators": "Humans, larger sharks",
+      "diet": "Omnivore",
+      "type": "Fish",
+      "common_name": "Bonnethead shark",
+      "number_of_species": "1",
+      "color": "GreyBlack-BrownGrey-Brown",
+      "skin_type": "Rough",
+      "top_speed": "0.7 mph",
+      "weight": "6.6 to 8.8 pounds",
+      "length": "20 to 39 inches in length. Females are larger."
+    }
+  },
+  {
+    "name": "Bull Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Carcharhinus",
+      "scientific_name": "Carcharhinus Leucas"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Sharks, Stingray",
+      "distinctive_feature": "Flat, rounded snout and two dorsal fins",
+      "habitat": "Shallow and tropical waters",
+      "predators": "Human, Tiger sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "10",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fish",
+      "type": "Fish",
+      "slogan": "Unpredictable and aggressive temperament!",
+      "color": "GreyBlue",
+      "skin_type": "Scales",
+      "top_speed": "25 mph",
+      "lifespan": "16 - 25 years",
+      "weight": "90kg - 230kg (200lbs - 500lbs)",
+      "length": "2.1m - 3.5m (7ft - 11.5ft)"
+    }
+  },
+  {
+    "name": "Cookiecutter Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Squaliformes",
+      "family": "Dalatiidae",
+      "genus": "Isistius"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "large squid, gonostomatids, crustaceans",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Ocean pollution",
+      "most_distinctive_feature": "Cookiecutter sharks glow",
+      "other_name(s)": "Cigar shark",
+      "water_type": "Salt",
+      "habitat": "Ocean",
+      "predators": "large sharks and bony fish",
+      "diet": "Carnivore",
+      "favorite_food": "Marlin, tuna, other sharks, stingrays, seals and whales",
+      "type": "Dalatiidae",
+      "common_name": "Cigar shark",
+      "number_of_species": "2",
+      "color": "Brown",
+      "skin_type": "Rough",
+      "lifespan": "Up to 25 years",
+      "length": "14-22 inches"
+    }
+  },
+  {
+    "name": "Frilled Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Hexanchiformes",
+      "family": "Chlamydoselachidae",
+      "genus": "Chlamydoselachus",
+      "scientific_name": "Chlamydoselachus anguineus"
+    },
+    "locations": [
+      "Least Concern"
+    ],
+    "characteristics": {
+      "prey": "Squid, smaller sharks, bony fish",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "most_distinctive_feature": " Long and slender eel-like bod",
+      "other_name(s)": "Frill-Gilled Shark, Scaffold Shark, Silk Shark, Greenland Shark, Fringe Shark, Lizard Shark",
+      "gestation_period": "Possibly as long as 42 months",
+      "water_type": "Salt",
+      "habitat": "Deep sea",
+      "predators": "Other shark species",
+      "diet": "Omnivore",
+      "favorite_food": "Squid, smaller sharks, bony fish",
+      "common_name": "Frilled Shark",
+      "number_of_species": "2",
+      "location": "Deep sea",
+      "color": "GreyDark Brown",
+      "skin_type": "Scales",
+      "lifespan": "Estimated to be about 25 years",
+      "length": "3.2 to 3.6 feet on average (males); 4.4 to 4.9 feet on average (females); maximum length of 6.4 feet"
+    }
+  },
+  {
+    "name": "Goblin Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Mitsukurinidae",
+      "genus": "Mitsukurina",
+      "scientific_name": "Mitsukurina owstoni"
+    },
+    "locations": [
+      "Least Concern"
+    ],
+    "characteristics": {
+      "prey": "Teoeost fish, cephalopods, and crustaceans",
+      "biggest_threat": "Blue Sharks",
+      "most_distinctive_feature": "Catapulting snout",
+      "other_name(s)": "Living Fossil",
+      "habitat": "Deep Sea",
+      "predators": "Blue Sharks",
+      "diet": "Carnivore",
+      "favorite_food": "Teoeost fish, cephalopods, and crustaceans",
+      "common_name": "Goblin Shark",
+      "number_of_species": "1",
+      "color": "TanPink",
+      "skin_type": "Scales",
+      "top_speed": "15 mph",
+      "lifespan": "About 60 years",
+      "weight": "330 to 460 pounds",
+      "length": "9.8 to 13.1 feet"
+    }
+  },
+  {
+    "name": "Great White Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Carcharodon",
+      "scientific_name": "Carcharodon carcharias"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Seals, Sea Lions, Dolphins",
+      "name_of_young": "Pup",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Hunting and habitat degredation",
+      "distinctive_feature": "Large pointed snout and powerful tail fin",
+      "other_name(s)": "White Shark, White Pointer Shark",
+      "optimum_ph_level": "5 - 7",
+      "incubation_period": "12 - 18 months",
+      "age_of_independence": "From birth",
+      "average_spawn_size": "9",
+      "habitat": "Temperate, coastal waters and open ocean",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnal",
+      "common_name": "Great White Shark",
+      "number_of_species": "1",
+      "location": "Worldwide",
+      "slogan": "Can grow to more than 8 meters long!",
+      "group": "Fish",
+      "color": "GreyBlackWhite",
+      "skin_type": "Tough",
+      "top_speed": "15 mph",
+      "lifespan": "30 - 40 years",
+      "weight": "1,110kg - 2,240kg (2,450lbs - 4,938lbs)",
+      "length": "5.5m - 8m (18ft - 26ft)",
+      "age_of_sexual_maturity": "17 years"
+    }
+  },
+  {
+    "name": "Greenland Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Squaliformes",
+      "family": "Somniosidae",
+      "genus": "Somniosus",
+      "scientific_name": "Somniosus microcephalus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Smaller sharks and small whales, herring, cod and other fish, seals and squid.",
+      "name_of_young": "Pup",
+      "group_behavior": "Largely solitary",
+      "estimated_population_size": "Several thousand",
+      "biggest_threat": "Climate change, overfishing",
+      "most_distinctive_feature": "Their great age.",
+      "other_name(s)": "Gurry, eqalussuaq, grey shark, sleeper shark",
+      "gestation_period": "Eight to 18 years",
+      "litter_size": "10",
+      "habitat": "Deep, cold, waters of the North Atlantic and the Arctic Oceans.",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "favorite_food": "Greenland shark food includes fish, marine mammals and carrion.",
+      "type": "Fish",
+      "common_name": "Greenland Shark",
+      "number_of_species": "1",
+      "location": "Canada, Greenland, Iceland",
+      "group": "School or shiver",
+      "color": "GreyBlack-Brown",
+      "skin_type": "Rough",
+      "top_speed": "-0.24 mph",
+      "lifespan": "250 to 500 years",
+      "weight": "2200 pounds",
+      "length": "21 feet",
+      "age_of_sexual_maturity": "150 years"
+    }
+  },
+  {
+    "name": "Grey Reef Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Carcharhinus",
+      "scientific_name": "Carcharhinus Amblyrhynchos"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crab, Squid",
+      "habitat": "Warm waters and coral reefs",
+      "predators": "Human, Larger sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "4",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fish",
+      "type": "Fish",
+      "slogan": "One of the most common shark species!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "25 mph",
+      "lifespan": "22-28 years",
+      "weight": "20-30kg (44-66lbs)"
+    }
+  },
+  {
+    "name": "Hammerhead Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Sphyrnidae",
+      "scientific_name": "Sphyrnidae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "crustaceans, fish, cephalopods, stingrays",
+      "group_behavior": "Solitary/School",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Overfishing, shark culling",
+      "most_distinctive_feature": "Hammer-shaped head",
+      "other_name(s)": "sphyrnids",
+      "gestation_period": "10-12 months",
+      "water_type": "Salt",
+      "habitat": "coastal, continental shelves",
+      "predators": "Tiger Shark, Great White Shark, Killer Whale, Humans",
+      "diet": "Carnivore",
+      "average_litter_size": "26",
+      "lifestyle": "Herd",
+      "favorite_food": "Fish",
+      "type": "sphyrnids",
+      "common_name": "hammerhead shark",
+      "number_of_species": "10",
+      "slogan": "Found in coastal waters around the world!",
+      "color": "BrownGreyWhiteGreen",
+      "skin_type": "Skin",
+      "top_speed": "20 mph",
+      "lifespan": "20-30 years",
+      "weight": "300lbs-1000lbs",
+      "length": "0.9m-6.1m (3ft-20ft)"
+    }
+  },
+  {
+    "name": "Horn Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Heterodontiformes",
+      "family": "Heterodontidae",
+      "genus": "Heterodontus",
+      "scientific_name": "Heterodontus francisci"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish and invertebrates",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Accidental bycatch",
+      "most_distinctive_feature": "The ridges along the eyes",
+      "gestation_period": "6-9 months",
+      "water_type": "Salt",
+      "optimum_ph_level": "7 - 8",
+      "habitat": "Kelp beds and rocks close to the shore",
+      "predators": "Sharks, seals, and eagles",
+      "diet": "Carnivore",
+      "average_litter_size": "20",
+      "favorite_food": "Molluscs",
+      "type": "Shark",
+      "common_name": "Horn Shark",
+      "number_of_species": "1",
+      "slogan": "Endemic to the Californian coast!",
+      "color": "BrownGreyYellowBlack",
+      "skin_type": "Smooth",
+      "lifespan": "12 years in captivity, perhaps 25 or even 50 years in the wild",
+      "weight": "20 pounds",
+      "length": "70cm - 120cm (27.5in - 47in)"
+    }
+  },
+  {
+    "name": "Megamouth Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Megachasmidae",
+      "genus": "Megachasma",
+      "scientific_name": "Megachasma pelagios"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Plankton, jellyfish, shrimp, copepods",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Incidental bycatch",
+      "most_distinctive_feature": "Tremendously large mouth full of teeth",
+      "other_name(s)": "Big mouth shark",
+      "gestation_period": "Unknown",
+      "habitat": "Oceans",
+      "diet": "Carnivore",
+      "type": "Cetorhinidae",
+      "common_name": "Megamouth shark",
+      "number_of_species": "1",
+      "color": "BrownBlackWhite",
+      "skin_type": "Rough",
+      "top_speed": "1.3 mph",
+      "weight": "1,760lbs",
+      "length": "13ft-18ft"
+    }
+  },
+  {
+    "name": "Nurse Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Orectolobiformes",
+      "family": "Ginglymostomatidae",
+      "genus": "Ginglymostoma",
+      "scientific_name": "Ginglymostoma cirratum"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Squid, Fish, Octopus",
+      "habitat": "Warm waters and tropical coastal regions",
+      "predators": "Human, Bull Shark, Tiger Shark",
+      "diet": "Carnivore",
+      "average_litter_size": "20",
+      "lifestyle": "Solitary",
+      "favorite_food": "Squid",
+      "type": "Fish",
+      "slogan": "Commonly found in Central American waters!",
+      "color": "BrownGreyBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "25 mph",
+      "lifespan": "20-25 years",
+      "weight": "90-150kg (198-330lbs)"
+    }
+  },
+  {
+    "name": "Porbeagle Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Lamna",
+      "scientific_name": "Lamna nasus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Bony fish, squid, shell fish, and sharks",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Overfishing",
+      "most_distinctive_feature": "The massive, blade-like teeth",
+      "other_name(s)": "Atlantic Mackerel Shark, Bottle-nosed Shark, and Blue Dog",
+      "gestation_period": "8 to 9 months",
+      "water_type": "Salt",
+      "habitat": "Oceans",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "type": "Shark",
+      "common_name": "Porbeagle Shark",
+      "number_of_species": "1",
+      "color": "GreyBlueWhite",
+      "skin_type": "Rough",
+      "top_speed": "20 mph",
+      "weight": "Up to 500lbs",
+      "length": "1.5-3.6m (5-12ft)"
+    }
+  },
+  {
+    "name": "Reef Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Bony fish, octopus, squid, rays and stingrays, sea lions, marine iguanas, trash, shrimp and crabs",
+      "group_behavior": "Solitary/Group",
+      "estimated_population_size": "Tens of thousands, but populations are declining",
+      "biggest_threat": "Habitat destruction, pollution, overfishing",
+      "most_distinctive_feature": "Their beauty",
+      "other_name(s)": "Blunt head shark, light-tip shark, whitetip shark, reef whitetip shark, blacktip shark, black-finned shark, blackfin reef shark, reef blacktip shark, guliman, black-vee whaler, bronze whaler, Fowler's whaler shark, graceful shark, graceful whaler shark, school shark, longnose blacktail shark, shortnose blacktail shark",
+      "gestation_period": "7 to 14 months",
+      "water_type": "Salt",
+      "optimum_ph_level": "8.1",
+      "habitat": "Coral reefs, lagoons, mangroves, grassy sea bed",
+      "predators": "Humans, other sharks",
+      "diet": "Carnivore",
+      "type": "Fish",
+      "common_name": "Reef shark",
+      "number_of_species": "5",
+      "color": "GreyWhiteGrey-Brown",
+      "skin_type": "Rough",
+      "top_speed": "31 mph",
+      "lifespan": "13 to 25 years",
+      "weight": "30 to 430 pounds",
+      "length": "5.2 to 11 feet in length"
+    }
+  },
+  {
+    "name": "Salmon Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Lamna",
+      "scientific_name": "Lamna ditropis"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "fish",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "unknown",
+      "biggest_threat": "humans",
+      "most_distinctive_feature": "short snout, two keels",
+      "other_name(s)": "Pacific Porbeagle",
+      "gestation_period": "9 months",
+      "water_type": "Salt",
+      "habitat": "marine, ocean",
+      "predators": "humans, other sharks",
+      "diet": "Carnivore",
+      "type": "fish",
+      "common_name": "Salmon Shark",
+      "number_of_species": "1",
+      "color": "GreyWhite",
+      "skin_type": "Plate-like scales",
+      "top_speed": "50 mph",
+      "lifespan": "20-27 years",
+      "weight": "210lbs-660lbs",
+      "length": "1.8m - 3m (6ft - 10ft)"
+    }
+  },
+  {
+    "name": "Sand Tiger Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Odontaspididae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Bony fish, other sharks, crustaceans, squid, skates and rays",
+      "group_behavior": "Solitary/Group",
+      "estimated_population_size": "Unknown, but its population decreased by 20 percent in just the last decade due to overfishing.",
+      "biggest_threat": "Humans",
+      "most_distinctive_feature": "It gulps air to keep buoyant.",
+      "other_name(s)": "spotted ragged-tooth shark, blue-nurse sand tiger, grey nurse shark, spotted sand tiger shark, chien de mer, dogfish shark, slender-tooth shark, magonga, requin taureau, ground shark",
+      "gestation_period": "Eight to twelve months",
+      "habitat": "Shallow tropical and temperate waters close to the shore",
+      "diet": "Carnivore",
+      "type": "Fish",
+      "common_name": "Sand tiger shark",
+      "number_of_species": "4",
+      "color": "Grey-Brown",
+      "skin_type": "Rough",
+      "top_speed": "0.87 mph",
+      "lifespan": "13 to 35 years",
+      "weight": "110 to 660.79 pounds",
+      "length": "6.6 to 10.5 feet"
+    }
+  },
+  {
+    "name": "Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Sea lion, seals, humans, small fishes, and invertebrates",
+      "biggest_threat": "Killer whales, sperm whales and humans",
+      "gestation_period": "Two years",
+      "diet": "Carnivore",
+      "favorite_food": "Sea lion, seals, humans, small fishes, and invertebrates",
+      "type": "Fish",
+      "common_name": "Shark",
+      "location": "USA and Australian waters mostly",
+      "color": "GreyYellowBlackWhiteCream",
+      "skin_type": "Rough",
+      "lifespan": "20-30 years",
+      "weight": "1500 to 4000 pounds",
+      "length": "5.8 to 7 feet"
+    }
+  },
+  {
+    "name": "Sixgill shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Hexanchiformes",
+      "family": "Hexanchidae",
+      "genus": "Hexanchus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, sharks, rays, and crustaceans",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Overfishing",
+      "most_distinctive_feature": "The massive rows of comb-like teeth",
+      "other_name(s)": "Cow Shark",
+      "gestation_period": "Longer than 2 years",
+      "water_type": "Salt",
+      "habitat": "Oceans",
+      "predators": "Humans, orcas, sharks, dolphins, and sea lions",
+      "diet": "Carnivore",
+      "type": "Shark",
+      "common_name": "Sixgill Shark",
+      "number_of_species": "3",
+      "color": "BrownGreyBlackWhiteGreen",
+      "skin_type": "Rough",
+      "lifespan": "Up to 80 years",
+      "weight": "Up to 1,600lbs",
+      "length": "Up to 6m (20ft)"
+    }
+  },
+  {
+    "name": "Sleeper Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Squaliformes",
+      "family": "Somniosidae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, seals, and mollusks",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Overfishing",
+      "most_distinctive_feature": "The sharp dagger-like teeth",
+      "other_name(s)": "Greenland Shark",
+      "gestation_period": "Varies",
+      "optimum_ph_level": "Varies",
+      "habitat": "Oceans",
+      "predators": "Humans, Killer Whales, other sharks",
+      "diet": "Carnivore",
+      "type": "Shark",
+      "common_name": "Sleeper Shark",
+      "number_of_species": "20",
+      "color": "GreyBlueWhiteLight-Brown",
+      "skin_type": "Scales",
+      "top_speed": "1.6 mph",
+      "lifespan": "Up to 500 years",
+      "weight": "Up to 2,000 pounds",
+      "length": "Up to 20 feet"
+    }
+  },
+  {
+    "name": "Spinner Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Carcharhinus",
+      "scientific_name": "Carcharhinus brevipinna"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "group_behavior": "Group",
+      "estimated_population_size": "Uncertain",
+      "biggest_threat": "Human exploitation, habitat loss",
+      "most_distinctive_feature": "Jumping and spinning",
+      "other_name(s)": "Blacktip shark, longnose gray whaler",
+      "gestation_period": "11 to 15 months",
+      "water_type": "Salt",
+      "habitat": "Tropical and warm temperate waters",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "favorite_food": "Small bony fish ponds, streams, ocean, etc",
+      "common_name": "Spinner shark",
+      "color": "GreyBlackLight-Brown",
+      "skin_type": "Tough",
+      "lifespan": "15 to 20 years",
+      "weight": "120 to 200 pounds",
+      "length": "6 to 9 feet"
+    }
+  },
+  {
+    "name": "Tiger Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Galeocerdo",
+      "scientific_name": "Galeocerdo Cuvier"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Squid, Fish, Turtles",
+      "habitat": "Tropical coastal waters",
+      "predators": "Human",
+      "diet": "Carnivore",
+      "average_litter_size": "35",
+      "lifestyle": "Solitary",
+      "favorite_food": "Squid",
+      "type": "Fish",
+      "slogan": "The fourth biggest species of shark in the world!",
+      "color": "BrownGreyBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "20 mph",
+      "lifespan": "30-40 years",
+      "weight": "385-635kg (850-1,400lbs)"
+    }
+  },
+  {
+    "name": "Viper shark (dogfish)",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Squaliformes",
+      "family": "Etmopteridae",
+      "genus": "Trigonognathus",
+      "scientific_name": "Trigonognathus kabeyai"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Bony fish",
+      "estimated_population_size": "Not recorded",
+      "biggest_threat": "Bigeye tuna, sickle pomfret.",
+      "most_distinctive_feature": "Triangular jaw and fang-like teeth",
+      "other_name(s)": "Viper dogfish, viper shark.",
+      "water_type": "Salt",
+      "habitat": "Deep water, upper continental slopes, seamounts.",
+      "predators": "Bigeye tuna, sickle pomfret.",
+      "diet": "Carnivore",
+      "type": "Fish",
+      "common_name": "Viper dogfish",
+      "number_of_species": "1",
+      "color": "Black",
+      "skin_type": "Rough",
+      "weight": "Up to 1.7 lbs.",
+      "length": "up to 53 centimeters (21 inches)"
+    }
+  },
+  {
+    "name": "Whale Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Orectolobiformes",
+      "family": "Rhincodontidae",
+      "genus": "Rhincodon",
+      "scientific_name": "Rhincodon Typus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Plankton, Crab, Fish",
+      "habitat": "Warm coastal waters and open ocean",
+      "predators": "Human, Sharks, Killer Whale",
+      "diet": "Carnivore",
+      "average_litter_size": "12",
+      "lifestyle": "Solitary",
+      "favorite_food": "Krill",
+      "type": "Fish",
+      "slogan": "The largest species of fish in the world!",
+      "color": "BrownGreyBlue",
+      "skin_type": "Smooth",
+      "top_speed": "10 mph",
+      "lifespan": "60-70 years",
+      "weight": "13,607-18,144kg (15-20tons)"
+    }
+  },
+  {
+    "name": "Zebra Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Orectolobiformes",
+      "family": "Stegostomatidae",
+      "genus": "Stegostoma",
+      "scientific_name": "Stegostoma Fasciatum"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crabs, Snails",
+      "optimum_ph_level": "7.8 - 8.4",
+      "habitat": "Tropical, coastal waters",
+      "predators": "Large Sharks, Humans",
+      "diet": "Omnivore",
+      "average_litter_size": "10",
+      "favorite_food": "Fish",
+      "type": "Salt",
+      "slogan": "Can get to be 30 years old in the wild!",
+      "color": "BrownGreyYellowBlackWhite",
+      "skin_type": "Smooth",
+      "lifespan": "15 - 20 years",
+      "weight": "16kg - 20kg (35lbs - 44lbs)"
+    }
+  },
+  {
+    "name": "Box Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Emydidae",
+      "genus": "Terrapene",
+      "scientific_name": "Terrapene carolina"
+    },
+    "locations": [
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Insects, roots, fruit, flowers, amphibians",
+      "name_of_young": "Hatchlings",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Less than 10,000",
+      "biggest_threat": "Habitat loss, automobiles on the road",
+      "most_distinctive_feature": "Colorful shell",
+      "gestation_period": "50-90 days",
+      "litter_size": "1-11 eggs",
+      "habitat": "Forests, fields, residential neighborhoods",
+      "predators": "Dogs, skunks, raccoons, snakes and some birds",
+      "diet": "Omnivore",
+      "type": "Reptile",
+      "common_name": "Box turtle",
+      "number_of_species": "6",
+      "location": "United States, Mexico",
+      "color": "YellowBlackDark BrownOrange",
+      "skin_type": "Hard Outer Shell",
+      "top_speed": "0.25 mph",
+      "lifespan": "100 plus years",
+      "weight": "0.5lbs to 2lbs",
+      "length": "5in-6in",
+      "age_of_sexual_maturity": "5 years"
+    }
+  },
+  {
+    "name": "Leatherback Sea Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Dermochelyidae",
+      "genus": "Dermochelys",
+      "scientific_name": " Dermochelys coriacea"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "jellyfish, sea squirts",
+      "main_prey": "Jellyfish",
+      "name_of_young": "eggs, hatchlings",
+      "group_behavior": "Solitary except during mating season",
+      "estimated_population_size": "less than 50,000",
+      "biggest_threat": "Humans, pollution, habitat loss, fishing vessel",
+      "most_distinctive_feature": "Leather-like skin",
+      "distinctive_feature": "Leather-like skin and massive size",
+      "other_name(s)": "Luth, leathery turtle, lute turtle, leatherbacks, leatherback turtle",
+      "gestation_period": "2 months",
+      "water_type": "Salt",
+      "litter_size": "100",
+      "habitat": "moderate to tropical coastal ocean waters",
+      "predators": "Crabs, racoons",
+      "diet": "Omnivore",
+      "average_litter_size": "100",
+      "type": "Reptile",
+      "common_name": "Leatherback Sea Turtle",
+      "location": "Oceans around the United States (including Hawaii ) , Puerto Rico , Indonesia , Africa",
+      "group": "Ridley",
+      "nesting_location": "Land",
+      "color": "GreyBlack",
+      "skin_type": "Leather",
+      "top_speed": "6 mph",
+      "lifespan": "up to 50 years",
+      "weight": "500 pounds to over 1 ton",
+      "length": "7-8 feet"
+    }
+  },
+  {
+    "name": "Painted Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Emydidae",
+      "genus": "Chrysemys",
+      "scientific_name": "Chrysemys picta"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "insects, small fish, small mammals, crustaceans",
+      "name_of_young": "hatchling",
+      "group_behavior": "Group",
+      "biggest_threat": "Habitat reduction",
+      "most_distinctive_feature": "colorful stripes on legs and neck",
+      "other_name(s)": "Western, eastern, midland, and southern painted turtle",
+      "gestation_period": "80 days",
+      "litter_size": "4-10",
+      "habitat": "Ponds, streams, marshes",
+      "predators": "Raccoons, otters, foxes",
+      "diet": "Omnivore",
+      "type": "Reptile",
+      "common_name": "Painted turtle",
+      "group": "large groups",
+      "color": "YellowRedBlackGreenOrange",
+      "skin_type": "Hard Outer Shell",
+      "top_speed": "3 mph"
+    }
+  },
+  {
+    "name": "River Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Aquatic Plants, Fruits, Fish, Molluscs",
+      "habitat": "Slow-moving rivers, streams and ponds",
+      "predators": "Fox, Dog, Human",
+      "diet": "Omnivore",
+      "average_litter_size": "35",
+      "lifestyle": "Solitary",
+      "favorite_food": "Aquatic Plants",
+      "type": "Reptile",
+      "slogan": "Inhabits freshwater habitats around the world!",
+      "color": "BrownYellowBlackGreen",
+      "skin_type": "Shell",
+      "top_speed": "2.4 mph",
+      "lifespan": "10-30 years",
+      "weight": "0.5-8kg (1.1-18lbs)"
+    }
+  },
+  {
+    "name": "Sea Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Chelonioidea"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crabs, Seaweed, Jellyfish",
+      "habitat": "Tropical coastal waters and beaches",
+      "diet": "Omnivore",
+      "average_litter_size": "100",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fish",
+      "type": "Reptile",
+      "slogan": "Always return to the same beach to lay eggs!",
+      "color": "BrownTanGreen",
+      "skin_type": "Scales",
+      "top_speed": "2.4 mph",
+      "lifespan": "60-80 years",
+      "weight": "158-400kg (350-882lbs)"
+    }
+  },
+  {
+    "name": "Snapping Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Chelydridae",
+      "genus": "Chelydra",
+      "scientific_name": "Chelydridae"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Birds, Frogs",
+      "habitat": "Slow rivers, lakes and marshland",
+      "predators": "Human, Raccoon, Alligator",
+      "diet": "Omnivore",
+      "average_litter_size": "35",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fish",
+      "type": "Reptile",
+      "slogan": "Only found in North America!",
+      "color": "BrownBlackTan",
+      "skin_type": "Scales",
+      "top_speed": "2.4 mph",
+      "lifespan": "30-45 years",
+      "weight": "16-136kg (35-300lbs)"
+    }
+  },
+  {
+    "name": "Spiny Hill Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Geoemydidae",
+      "genus": "Heosemys",
+      "scientific_name": "Heosemys spinosa"
+    },
+    "locations": [
+      "Asia"
+    ],
+    "characteristics": {
+      "name_of_young": "Hatchling",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Habitat destruction",
+      "most_distinctive_feature": "Spiked shell",
+      "other_name(s)": "Cogwheel turtle",
+      "gestation_period": "100 - 145 days",
+      "litter_size": "1 - 3",
+      "habitat": "Forest, rainforest, mountains, hills",
+      "predators": "humans",
+      "diet": "Omnivore",
+      "favorite_food": "Leaves, fruit, vegetation",
+      "type": "Reptile",
+      "common_name": "Spiny turtle",
+      "number_of_species": "1",
+      "location": "Indo-Malaysia",
+      "color": "BrownRedOrangeBeige",
+      "skin_type": "Scales",
+      "top_speed": "3 mph",
+      "lifespan": "20 years",
+      "weight": "1.5 - 2kg (3 - 4.5lbs)",
+      "height": "90 - 110 mm (.3 - .4ft)",
+      "length": "175 - 220mm (.6 - .75ft)"
+    }
+  },
+  {
+    "name": "Turtles",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Ocean",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Crabs, jellyfish, squid, shrimp, cuttlefish, sea squirts, sea cucumbers, sponges, seagrass, algae, worms, snails, insect larvae, aquatic insects, crustaceans, water plants, fallen fruit, frogs, snakes, fish and smaller turtles.",
+      "name_of_young": "Hatchling",
+      "group_behavior": "SolitaryGroup",
+      "estimated_population_size": "Fewer than 10 million",
+      "biggest_threat": "Accidental capture by fishing gear",
+      "most_distinctive_feature": "Shell",
+      "other_name(s)": "Sea turtle, snapping turtle, Chelonia",
+      "gestation_period": "7 weeks to 2 years",
+      "litter_size": "3-8",
+      "habitat": "Aquatic, muddy, swampy areas, dry land for sun basking",
+      "predators": "Humans",
+      "diet": "Omnivore",
+      "lifestyle": "SolitaryGroup",
+      "type": "Reptile",
+      "common_name": "Turtle",
+      "number_of_species": "334",
+      "location": "North America, South Asia",
+      "color": "BrownGreyYellowRedBlueBlackWhiteTanGreenDark BrownOrangePurplePinkOliveDull OliveGrey-Brown",
+      "skin_type": "Tough",
+      "top_speed": "3 mph",
+      "lifespan": "30 - 200+ years",
+      "weight": "550 - 2,000lbs",
+      "length": "6 cm to 6 ft",
+      "age_of_sexual_maturity": "2-50 years"
+    }
+  },
+  {
+    "name": "Wood Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Geoemydidae",
+      "genus": "Geoemydidae"
+    },
+    "locations": [
+      "Asia",
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Insects, earthworms, small arthropods such as millipedes",
+      "name_of_young": "Hatchling",
+      "group_behavior": "Solitary/Group",
+      "estimated_population_size": "Several thousand depending on species",
+      "biggest_threat": "Habitat loss, pet trade, animal predators, humans",
+      "most_distinctive_feature": "The scutes, which have beautiful growth rings",
+      "other_name(s)": "Nihonishigameor, ornate wood turtle, Honduran wood turtle, black river turtle, spot-legged turtle, brown land turtle, Splengleri turtle",
+      "gestation_period": "8 months",
+      "litter_size": "1 to 20",
+      "habitat": "Deciduous forests, rain forests, marshes, bogs, rivers, streams",
+      "predators": "Alligators",
+      "diet": "Omnivore",
+      "type": "Reptile",
+      "common_name": "Wood turtle",
+      "number_of_species": "9",
+      "location": "North America, Central America, South America, China, Vietnam, Japan",
+      "color": "BrownYellowBlackGreenGrey-Brown",
+      "skin_type": "Hard Outer Shell",
+      "top_speed": "0.2 mph",
+      "lifespan": "Up to 58 years",
+      "weight": "Up to 3 pounds",
+      "length": "About 8 to 9 inches",
+      "age_of_sexual_maturity": "14 years"
+    }
+  },
+  {
+    "name": "Baleen Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Eschrichtiidae",
+      "genus": "Eubalaena and Balaena",
+      "scientific_name": "Mysticeti"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Krill, fish, zooplankton, phytoplankton, and algae",
+      "name_of_young": "calves",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "1.1 million+",
+      "biggest_threat": "Poaching/whaling",
+      "most_distinctive_feature": "Baleen (rather than teeth)",
+      "other_name(s)": "whalebone whale or mysticetes",
+      "gestation_period": "10 months",
+      "litter_size": "1",
+      "habitat": "Warm and freezing ocean",
+      "predators": "Humans, orcas",
+      "diet": "Carnivore",
+      "type": "Mammal",
+      "common_name": "baleen whale",
+      "number_of_species": "-2",
+      "location": "Oceanwide",
+      "group": "solitary",
+      "color": "GreyBlueBlack",
+      "skin_type": "Skin",
+      "top_speed": "22 mph",
+      "lifespan": "can be 100+ years",
+      "weight": "varies between species",
+      "length": "40+ feet",
+      "age_of_sexual_maturity": "5-10 years",
+      "age_of_weaning": "6-7 months"
+    }
+  },
+  {
+    "name": "Blue Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balsenoptera musculus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Krill, Crustaceans, Small Fish",
+      "name_of_young": "Calf",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Less than 20,000",
+      "biggest_threat": "Climate change",
+      "most_distinctive_feature": "Pleats on neck and two blow-holes",
+      "other_name(s)": "Northern, Southern, Pygmy",
+      "gestation_period": "11 -12 months",
+      "habitat": "Polar and subtropical waters",
+      "predators": "Humans, Killer Whale pods",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "Blue Whale",
+      "number_of_species": "3",
+      "location": "Oceans worldwide",
+      "slogan": "The largest animal on Earth",
+      "group": "Mammal",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "13 mph",
+      "lifespan": "30 - 45 years",
+      "weight": "100tonnes - 160tonnes (220,000lbs - 352,000lbs)",
+      "length": "25m - 30m (82.5ft - 100ft)",
+      "age_of_sexual_maturity": "10- 15 years",
+      "age_of_weaning": "8 months"
+    }
+  },
+  {
+    "name": "Bowhead Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Balaenidae",
+      "genus": "Balaena",
+      "scientific_name": "Balaena mysticetus"
+    },
+    "locations": [
+      "Least Concern"
+    ],
+    "characteristics": {
+      "prey": "Zooplankton",
+      "group_behavior": "SolitaryPod",
+      "estimated_population_size": "8,000 to 12,000",
+      "biggest_threat": "Climate change and humans",
+      "most_distinctive_feature": "Large triangular-shaped skull",
+      "other_name(s)": "Greenland Right Whale, Arctic Whale, Polar Whale, Steeple-Top, Russian Whale",
+      "gestation_period": "13 to 14 months",
+      "predators": "Killer Whales and humans",
+      "diet": "Herbivore",
+      "common_name": "Bowhead Whale",
+      "number_of_species": "1",
+      "location": "Arctic and subarctic waters",
+      "skin_type": "Tough",
+      "top_speed": "6.2 mph",
+      "lifespan": "Unknown, but may be 200 years or more",
+      "weight": "75 to 100 ton",
+      "length": "50 to 60 feet long"
+    }
+  },
+  {
+    "name": "False Killer Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Delphinidae",
+      "genus": "Pseudorca",
+      "scientific_name": "Pseudorca crassidens"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, squid, and marine mammals",
+      "group_behavior": "Pod",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Competition with humans for food",
+      "most_distinctive_feature": "The versatile vocalizations",
+      "other_name(s)": "Blackfish or false pilot whale",
+      "gestation_period": "Up to 16 months",
+      "water_type": "Salt",
+      "habitat": "Coastal and deep ocean regions",
+      "predators": "Sharks and killer whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "type": "Mammal",
+      "common_name": "False killer whale",
+      "color": "GreyBlackWhite",
+      "skin_type": "Skin",
+      "top_speed": "18 mph",
+      "lifespan": "Around 60 years",
+      "weight": "Up to 4,000 pounds",
+      "length": "Up to 20 feet"
+    }
+  },
+  {
+    "name": "Fin Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balaenoptera Physalus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Squid",
+      "distinctive_feature": "Pointed snout and two blowholes on top of head",
+      "habitat": "Deep offshore waters",
+      "predators": "Human, Large Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Krill",
+      "type": "Mammal",
+      "slogan": "Found throughout ocean waters worldwide!",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "25 mph",
+      "lifespan": "50 - 60 years",
+      "weight": "1,800kg - 70,000kg (4,000lbs - 150,000lbs)",
+      "length": "6.5m - 24m (21ft - 79ft)"
+    }
+  },
+  {
+    "name": "Humpback Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Megaptera",
+      "scientific_name": "Megaptera novaeangliae"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Plankton, crustaceans, and fish",
+      "group_behavior": "Pod",
+      "estimated_population_size": "120,000 to 150,000",
+      "biggest_threat": "Accidents with boats and nets",
+      "most_distinctive_feature": "The small hump on the back",
+      "gestation_period": "11 months",
+      "water_type": "Salt",
+      "habitat": "Oceans close to the shore",
+      "predators": "Human, Killer Whale",
+      "diet": "Omnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Krill",
+      "type": "Cetaceans",
+      "common_name": "Humpback whales",
+      "slogan": "There are thought to be 80,000 left in the wild!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "17 mph",
+      "lifespan": "45 to 50 years",
+      "weight": "36,000-99,800kg (40-100tons)",
+      "length": "14.6m - 19m (48ft - 62ft)"
+    }
+  },
+  {
+    "name": "Killer Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Delphinidae",
+      "genus": "Orcinus",
+      "scientific_name": "Orcinus orca"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Seal, Fish, Squid",
+      "group_behavior": "Pod",
+      "water_type": "Salt",
+      "habitat": "Ocean and coastal waters worldwide",
+      "predators": "Human, Larger Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Pod",
+      "favorite_food": "Seal",
+      "type": "Mammal",
+      "slogan": "Typically consumes over 200 kg of food a day!",
+      "color": "BlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "30 mph",
+      "lifespan": "50-60 years",
+      "weight": "6,804-8,618kg (15,000-19,000lbs)"
+    }
+  },
+  {
+    "name": "Minke Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balaenoptera acutorostrata"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, herring, sand eels, sprat, capelin, silverfish, and lanternfish",
+      "estimated_population_size": "Common Minke Whale: 180,000; Antarctic Minke Whale: 515,000",
+      "biggest_threat": "Killer Whales",
+      "other_name(s)": "Lesser Rorqual, Lesser Finback, Sharp-Headed Finner, Little Finner, Pike Whale",
+      "gestation_period": "10 months",
+      "water_type": "Salt",
+      "habitat": "Temperate, tropic, or sub tropic waters",
+      "predators": "Human, Sharks, Killer Whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Krill",
+      "type": "Mammal",
+      "common_name": "Minke Whale",
+      "number_of_species": "2",
+      "slogan": "There are two recognised species!",
+      "color": "BrownGreyBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "13 mph",
+      "lifespan": "30-50 years",
+      "weight": "4,536-12,700kg (5-14tons)"
+    }
+  },
+  {
+    "name": "Sei Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balaenoptera borealis"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": " Krill and other euphausiids, copepods, small fish and squid",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "80,000",
+      "biggest_threat": "Humans, climate change, pollution",
+      "most_distinctive_feature": "Its tall, sickle-shaped dorsal fin",
+      "other_name(s)": "Japan finner, lesser fin whale, pollock whale, sardine whale, coalfish, Rudolph’s rorqual",
+      "gestation_period": "10.5 to 12 months",
+      "water_type": "Salt",
+      "predators": "Humans",
+      "diet": "Carnivore",
+      "type": "Mammal",
+      "common_name": "Sei Whale",
+      "number_of_species": "2",
+      "color": "GreyWhite",
+      "skin_type": "Skin",
+      "top_speed": "32 mph",
+      "lifespan": "70 years plus",
+      "weight": " Up to 31 tons",
+      "length": "64 feet, females bigger"
+    }
+  },
+  {
+    "name": "Sperm Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Physeteridae",
+      "genus": "Physeter",
+      "scientific_name": "Physeter macrocephalus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Squid, sharks, skates, fish",
+      "group_behavior": "Pod/Solitary",
+      "estimated_population_size": "300,000 to 450,000",
+      "biggest_threat": "Human activity, climate change",
+      "most_distinctive_feature": "Size and huge head",
+      "distinctive_feature": "Cone-shaped teeth and enormous body size",
+      "other_name(s)": "Cachalot",
+      "gestation_period": "14 to 16 months",
+      "water_type": "Salt",
+      "optimum_ph_level": "6 - 9",
+      "habitat": "Ocean",
+      "predators": "Sharks, Humans, Killer Whales",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "favorite_food": "Squid",
+      "type": "Cetacean Common nam",
+      "common_name": "Sperm Whale",
+      "number_of_species": "4",
+      "slogan": "Each tooth weighs 1kg!",
+      "color": "GreyWhite",
+      "skin_type": "Smooth",
+      "top_speed": "23 mph",
+      "lifespan": "Up to 60 years",
+      "weight": "35 to 45 tons",
+      "length": "49 to 59 feet"
+    }
+  },
+  {
+    "name": "Whale Shark",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Orectolobiformes",
+      "family": "Rhincodontidae",
+      "genus": "Rhincodon",
+      "scientific_name": "Rhincodon Typus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Plankton, Crab, Fish",
+      "habitat": "Warm coastal waters and open ocean",
+      "predators": "Human, Sharks, Killer Whale",
+      "diet": "Carnivore",
+      "average_litter_size": "12",
+      "lifestyle": "Solitary",
+      "favorite_food": "Krill",
+      "type": "Fish",
+      "slogan": "The largest species of fish in the world!",
+      "color": "BrownGreyBlue",
+      "skin_type": "Smooth",
+      "top_speed": "10 mph",
+      "lifespan": "60-70 years",
+      "weight": "13,607-18,144kg (15-20tons)"
+    }
+  },
+  {
+    "name": "Adelie Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Pygoscelis",
+      "scientific_name": "Pygoscelis adeliae"
+    },
+    "locations": [
+      "Antarctica",
+      "Asia",
+      "Eurasia",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Krill, Fish, Squid",
+      "name_of_young": "Chicks",
+      "group_behavior": "Colony",
+      "estimated_population_size": "5 million",
+      "biggest_threat": "Rapid ice melt",
+      "most_distinctive_feature": "Small white circle around each eye",
+      "wingspan": "35cm - 70cm (14in - 27.5in)",
+      "incubation_period": "2 months",
+      "age_of_fledgling": "90 days",
+      "habitat": "Antarctic land and ocean",
+      "predators": "Leopard Seal, Skua Gull, Killer Whale",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnal",
+      "common_name": "Adelie Penguin",
+      "number_of_species": "1",
+      "location": "Coastal Antarctica",
+      "average_clutch_size": "2",
+      "slogan": "Eats up to 2kg of food per day!",
+      "group": "Bird",
+      "skin_type": "Feathers",
+      "top_speed": "45 mph",
+      "lifespan": "10 - 20 years",
+      "weight": "3kg - 6kg (7lbs - 13lbs)",
+      "height": "40cm - 75cm (16in - 30in)",
+      "age_of_sexual_maturity": "2 - 3 years"
+    }
+  },
+  {
+    "name": "African Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus demersus"
+    },
+    "locations": [
+      "Africa",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, Squid, Crustaceans",
+      "name_of_young": "Chick",
+      "group_behavior": "Colony",
+      "estimated_population_size": "140,000",
+      "biggest_threat": "Habitat disruption",
+      "most_distinctive_feature": "Pink glands above their eyes",
+      "other_name(s)": "Jackass Penguin",
+      "water_type": "Salt",
+      "incubation_period": "40 days",
+      "age_of_fledgling": "3 - 5 months",
+      "habitat": "Rocky Ocean Islands",
+      "predators": "Sharks, Fur Seals, Gulls",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnal",
+      "common_name": "African Penguin",
+      "number_of_species": "1",
+      "location": "south-west African coast",
+      "average_clutch_size": "2",
+      "slogan": "The only penguin species in Africa!",
+      "group": "Bird",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "12.4 mph",
+      "lifespan": "10 - 15 years",
+      "weight": "2kg - 5kg (4.4lbs - 11lbs)",
+      "height": "60cm - 68cm (24in - 27in)",
+      "age_of_sexual_maturity": "3 - 4 years"
+    }
+  },
+  {
+    "name": "Chinstrap Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Pygoscelis",
+      "scientific_name": "Pygoscelis Antarcticus"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "White face and thin, black line that runs under the chin",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sea Birds",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "There are 7 million breeding pairs!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "3kg - 6kg (6.6lbs - 13lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "Crested Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes robustus"
+    },
+    "locations": [
+      "Ocean",
+      "Oceania"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Red beak and bright yellow eyebrows",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Has long yellow eyebrows!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "3kg - 6kg (6.6lbs - 13lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "Emperor Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Aptenodytes",
+      "scientific_name": "Aptenodytes forsteri"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "prey": "Fish, Krill, Squid",
+      "name_of_young": "Chick",
+      "group_behavior": "Colony",
+      "estimated_population_size": "200,000 breeding pairs",
+      "biggest_threat": "Global warming",
+      "most_distinctive_feature": "Bright yellow feathers on neck and ears",
+      "wingspan": "76cm - 89cm (30in - 35in)",
+      "incubation_period": "60 - 70 days",
+      "age_of_fledgling": "5 - 6 months",
+      "habitat": "Compact sea-ice and ocean",
+      "predators": "Southern Giant Petrol, Leopard Seal, Killer Whale",
+      "diet": "Carnivore",
+      "lifestyle": "Diurnal",
+      "common_name": "Emperor Penguin",
+      "number_of_species": "1",
+      "location": "Antarctica",
+      "average_clutch_size": "1",
+      "slogan": "The world's largest species of penguin!",
+      "group": "Bird",
+      "color": "YellowBlackWhiteOrange",
+      "skin_type": "Feathers",
+      "top_speed": "15 mph",
+      "lifespan": "15 - 50 years",
+      "weight": "22kg - 45kg (49lbs - 99lbs)",
+      "height": "100cm - 120cm (39in - 47in)",
+      "age_of_sexual_maturity": "3 - 8 years"
+    }
+  },
+  {
+    "name": "Galapagos Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus Mendiculus"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Small body size and fully black head",
+      "habitat": "Rocky Ocean Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Found around the Equator!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "2kg - 4kg (4.4lbs - 8.8lbs)",
+      "height": "48cm - 50cm (19in - 20in)"
+    }
+  },
+  {
+    "name": "Gentoo Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Pygoscelis",
+      "scientific_name": "Pygoscelis papua"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Small head with orange beak and feet",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Found throughout the sub-Antarctic!",
+      "color": "GreyBlackWhiteOrange",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "4kg - 8kg (8.8lbs - 18lbs)",
+      "height": "51cm - 90cm (20in - 36in)"
+    }
+  },
+  {
+    "name": "Humboldt Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus humboldti"
+    },
+    "locations": [
+      "Ocean",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Pink base of beak and black and white markings",
+      "habitat": "Rocky Ocean Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Found on the South American coast!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "2kg - 5kg (4.4lbs - 11lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "King Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Aptenodytes",
+      "scientific_name": "Aptenodytes patagonicus"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Large body size with yellow markings on head",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "More than 2 million breeding pairs!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "11kg - 16kg (24lbs - 35lbs)",
+      "height": "60cm - 90cm (24in - 35in)"
+    }
+  },
+  {
+    "name": "Little Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptula",
+      "scientific_name": "Eudyptula Minor"
+    },
+    "locations": [
+      "Ocean",
+      "Oceania"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Small body size with blue/grey feathers",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "The smallest species of penguin!",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "10 - 20 years",
+      "weight": "1kg - 3kg (2.2lbs - 6.6lbs)",
+      "height": "35cm - 50cm (14in - 20in)"
+    }
+  },
+  {
+    "name": "Macaroni Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes Chrysolophus"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Squid, Crustaceans",
+      "wingspan": "80-100cm (31-39in)",
+      "habitat": "Sea and ice-islands in Sub-Antarctica",
+      "predators": "Leopard Seal, Killer Whale",
+      "diet": "Carnivore",
+      "lifestyle": "Colony",
+      "favorite_food": "Fish",
+      "type": "Bird",
+      "average_clutch_size": "2",
+      "slogan": "Gather in colonies of up to 100,000 members!",
+      "color": "BrownYellowBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "22 mph",
+      "lifespan": "15-20 years",
+      "weight": "3.2-6.4kg (7-14lbs)"
+    }
+  },
+  {
+    "name": "Magellanic Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "scientific_name": "Spheniscus magellanicus"
+    },
+    "locations": [
+      "Ocean",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Cuttlefish, Squid, Sardines",
+      "distinctive_feature": "Black beak and small wings",
+      "habitat": "Antarctic islands",
+      "predators": "Sea Lion, Leopard Seal, Killer Whale",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Flock",
+      "favorite_food": "Cuttlefish",
+      "type": "Bird",
+      "slogan": "Threatened by oil spills!",
+      "color": "BrownGreyBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "22 mph",
+      "lifespan": "15 - 20 years",
+      "weight": "2.7kg - 6.5kg (5.9lbs - 14lbs)",
+      "length": "61cm - 76cm (24in - 30in)"
+    }
+  },
+  {
+    "name": "Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "scientific_name": "Aptenodytes Forsteri"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crabs, Squid",
+      "distinctive_feature": "Short, sharp beak and slight webbed feet",
+      "wingspan": "60cm - 130cm (23.6in - 21in)",
+      "habitat": "Cold seas and rocky land",
+      "predators": "Leopard Seals, Sharks, Killer Whale",
+      "diet": "Omnivore",
+      "lifestyle": "Group",
+      "favorite_food": "Fish",
+      "type": "Bird",
+      "average_clutch_size": "1",
+      "slogan": "Spends 75% of it's time hunting for food!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "40 mph",
+      "lifespan": "20 - 30 years",
+      "weight": "1kg - 35kg (2.2lbs - 75lbs)",
+      "height": "40cm - 110cm (15.7in - 43in)"
+    }
+  },
+  {
+    "name": "Rockhopper Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes chrysocome"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Red beaks and eyes, with yellow head feathers",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "There are 3 different species!",
+      "color": "GreyBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "2kg - 5kg (4.4lbs - 11lbs)",
+      "height": "45cm - 58cm (18in - 23in)"
+    }
+  },
+  {
+    "name": "Royal Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "scientific_name": "Eudyptes schlegeli"
+    },
+    "locations": [
+      "Antarctica",
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Orange beak with yellow feathers on head",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "Can reach speeds of 20mph!",
+      "color": "GreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "15 - 20 years",
+      "weight": "3kg - 6kg (6.6lbs - 13lbs)",
+      "height": "60cm - 68cm (24in - 27in)"
+    }
+  },
+  {
+    "name": "Yellow-Eyed Penguin",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Megadyptes",
+      "scientific_name": "Megadyptes antipodes"
+    },
+    "locations": [
+      "Ocean",
+      "Oceania"
+    ],
+    "characteristics": {
+      "main_prey": "Krill, Fish, Shrimp",
+      "distinctive_feature": "Bright yellow head-band and pink coloured feet",
+      "habitat": "Rocky Antarctic Islands",
+      "predators": "Leopard Seal, Killer Whale, Sharks",
+      "diet": "Carnivore",
+      "average_litter_size": "2",
+      "lifestyle": "Colony",
+      "favorite_food": "Krill",
+      "type": "Bird",
+      "slogan": "The rarest species of penguin!",
+      "color": "BrownGreyYellowBlackWhite",
+      "skin_type": "Feathers",
+      "lifespan": "10 - 20 years",
+      "weight": "5kg - 8kg (11lbs - 18lbs)",
+      "height": "60cm - 75cm (24in - 30in)"
+    }
+  }
+]

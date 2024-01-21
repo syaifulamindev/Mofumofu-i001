@@ -12,6 +12,7 @@ import MofumofuKit
 class SubtypeAnimalPictureListViewController: UIViewController {
     
     
+    weak var coordinator: MainCoordinator?
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -21,6 +22,8 @@ class SubtypeAnimalPictureListViewController: UIViewController {
         label.center.x = view.center.x
         label.center.y = view.center.y
         view.addSubview(label)
+        
+        
     }
     
     init() {
