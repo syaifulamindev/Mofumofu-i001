@@ -72,4 +72,4 @@ Tuist/Dependencies
 # Other
 *.build
 *.resolved
-**/Tuist/**/graph.json
+**/Tuist/Dependencies/graph.json
