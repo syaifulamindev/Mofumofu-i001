@@ -45,9 +45,19 @@ public class MainCoordinator: Coordinator {
         vc.coordinator = self
         navigationController.pushViewController(vc, animated: true)
         _Concurrency.Task {
-            let animalSubtypes: Animals = try await networkProvider.request(AnimalAPI.animalList(name: animalName),
+            let data: Animals = try await networkProvider.request(AnimalAPI.animalList(name: animalName),
                                                                             provider: MoyaProvider<AnimalAPI>.stubProvider())
-            print(animalSubtypes)
+            await MainActor.run {
+                
+                //FIXME: this filter is temporary, because we can't get real data from server right now
+                vc.dataSource.data = data.filter {
+                    $0.name.lowercased().contains(animalName.lowercased())
+                }
+                DispatchQueue.main.async {
+                    vc.collectionView.reloadData()
+                }
+            }
+            print("data: \(data)")
         }
         
     }

@@ -35,5 +35,5 @@ let project = ProjectBuilder("Mofumofu")
     ])
     .addModule("AnimalFeature", path: "Features/Animal", withExample: true, dependencies: [
         .target(name: "MofumofuUI")
-    ], resources: ["Targets/Features/Animal/Resources/**"])
+    ], resources: ["Targets/Features/Animal/Resources/**", "Targets/Features/Animal/**"])
     .build()
