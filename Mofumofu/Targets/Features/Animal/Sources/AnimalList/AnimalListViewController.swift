@@ -10,12 +10,15 @@ import Foundation
 import UIKit
 import MofumofuKit
 
-class AnimalListViewController: UIViewController {
+class AnimalListViewController: UITableViewController {
+    
+    let dataSource = AnimalListDatasource()
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .gray
+        view.backgroundColor = .white
         tabBarItem.title = "AnimalList"
-        
+        dataSource.setup(self.tableView)
+        tableView.reloadData()
     }
 }
 

@@ -18,7 +18,7 @@ public class MainAnimalViewController: UITabBarController {
     
     public override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .gray
+        view.backgroundColor = .white
         setViewControllers(
             [
                 animalListViewController,
