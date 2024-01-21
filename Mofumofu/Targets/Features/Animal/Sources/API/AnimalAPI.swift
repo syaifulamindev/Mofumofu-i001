@@ -55,5 +55,15 @@ extension AnimalAPI: TargetType {
         }
     }
     
+    var sampleData: Data {
+        switch self {
+        case .animalList:
+            let url = Bundle.module.url(forResource: "allAnimalsSubtype", withExtension: "json")!
+            return try! Data(contentsOf: url)
+        case .subtypeImage:
+            return Data()
+        }
+    }
+    
     
 }

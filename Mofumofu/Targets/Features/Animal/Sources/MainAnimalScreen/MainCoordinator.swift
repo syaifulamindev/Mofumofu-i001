@@ -9,6 +9,7 @@
 import UIKit
 import MofumofuUI
 import MofumofuKit
+import Moya
 
 public class MainCoordinator: Coordinator {
     public var childCoordinators = [Coordinator]()
@@ -43,9 +44,9 @@ public class MainCoordinator: Coordinator {
         let vc = SubtypeAnimalPictureListViewController()
         vc.coordinator = self
         navigationController.pushViewController(vc, animated: true)
-        
-        Task {
-            let animalSubtypes: Animals = try await networkProvider.request(AnimalAPI.animalList(name: animalName))
+        _Concurrency.Task {
+            let animalSubtypes: Animals = try await networkProvider.request(AnimalAPI.animalList(name: animalName),
+                                                                            provider: MoyaProvider<AnimalAPI>.stubProvider())
             print(animalSubtypes)
         }
         
