@@ -15,10 +15,18 @@ class AnimalListViewController: UITableViewController {
     let dataSource = AnimalListDatasource()
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .white
-        tabBarItem.title = "AnimalList"
         dataSource.setup(self.tableView)
         tableView.reloadData()
+    }
+    
+    init() {
+        super.init(nibName: nil, bundle: nil)
+        view.backgroundColor = .white
+        tabBarItem.title = "Animal List"
+    }
+    
+    required init?(coder: NSCoder) {
+        super.init(coder: coder)
     }
 }
 

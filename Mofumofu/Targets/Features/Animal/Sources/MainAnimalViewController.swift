@@ -14,7 +14,9 @@ public class MainAnimalViewController: UITabBarController {
     
     @Injected(\.animalList)
     var animalListViewController: UIViewController
-    var animalFavoriteViewController: UIViewController = .init()
+    
+    @Injected(\.favoriteList)
+    var animalFavoriteViewController: UIViewController
     
     public override func viewDidLoad() {
         super.viewDidLoad()
