@@ -18,8 +18,8 @@ public class ProjectBuilder {
             "CFBundleShortVersionString": "1.0",
             "CFBundleVersion": "1",
             "UILaunchStoryboardName": "LaunchScreen"
-            ]
-
+        ]
+        
         let mainDependencies = self.moduleNames.map { TargetDependency.target(name: $0)}
         let mainTarget = Target(
             name: name,
@@ -31,7 +31,7 @@ public class ProjectBuilder {
             resources: ["Targets/\(name)/Resources/**"],
             dependencies: mainDependencies
         )
-
+        
         let testTarget = Target(
             name: "\(name)Tests",
             destinations: DESTINATIONS,
@@ -41,7 +41,7 @@ public class ProjectBuilder {
             sources: ["Targets/\(name)/Tests/**"],
             dependencies: [
                 .target(name: "\(name)")
-        ])
+            ])
         
         var targets = [mainTarget, testTarget]
         targets.append(contentsOf: self.targets)
@@ -54,28 +54,50 @@ public class ProjectBuilder {
 
 public extension ProjectBuilder {
     
-    func addModule(_ name: String, path: String = "", dependencies: [TargetDependency] = [], resources: ResourceFileElements = []) -> ProjectBuilder {
+    func addModule(_ name: String, path: String = "", withExample: Bool = false,  dependencies: [TargetDependency] = [], resources: ResourceFileElements = []) -> ProjectBuilder {
+        moduleNames.append(name)
+        
         let  relativePath: String = path == "" ? name : path
         let sources = Target(name: name,
                              destinations: DESTINATIONS,
-                product: .framework,
+                             product: .framework,
                              bundleId: "id.amin.\(name)",
-                infoPlist: .default,
+                             infoPlist: .default,
                              sources: ["Targets/\(relativePath)/Sources/**"],
                              resources: resources,
                              dependencies: dependencies)
-        var testDependencies = dependencies
-        testDependencies.append(.target(name: name))
+        
+        var completeDependencies = dependencies
+        completeDependencies.append(.target(name: name))
+        
         let tests = Target(name: "\(name)Tests",
                            destinations: DESTINATIONS,
-                product: .unitTests,
+                           product: .unitTests,
                            bundleId: "id.amin.\(name)Tests",
-                infoPlist: .default,
+                           infoPlist: .default,
                            sources: ["Targets/\(relativePath)/Tests/**"],
                            resources: resources,
-                           dependencies: testDependencies)
-        moduleNames.append(name)
+                           dependencies: completeDependencies)
         targets.append(contentsOf: [sources, tests])
+        
+        if withExample {
+            let infoPlist: [String: Plist.Value] = [
+                "CFBundleShortVersionString": "1.0",
+                "CFBundleVersion": "1",
+                "UILaunchStoryboardName": "LaunchScreen"
+            ]
+            
+            let example = Target(name: "\(name)Example",
+                                 destinations: DESTINATIONS,
+                                 product: .app,
+                                 bundleId: "id.amin.\(name)Example",
+                                 infoPlist: .extendingDefault(with: infoPlist),
+                                 sources: ["Targets/\(relativePath)/Example/**"],
+                                 resources: resources,
+                                 dependencies: completeDependencies)
+            targets.append(example)
+        }
+        
         return self
     }
 }
