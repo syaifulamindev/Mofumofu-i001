@@ -27,7 +27,7 @@ class SubtypeAnimalPictureListViewController: UIViewController {
         collectionView = AnimalPictureCollectionView()
         dataSource.setup(collectionView)
         collectionView.delegate = delegate
-        
+        delegate.dataSource = dataSource
         super.init(nibName: nil, bundle: nil)
         view.backgroundColor = .white
         

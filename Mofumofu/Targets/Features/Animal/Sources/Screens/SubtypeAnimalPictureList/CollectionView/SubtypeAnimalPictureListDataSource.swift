@@ -11,6 +11,13 @@ import UIKit
 class SubtypeAnimalPictureListDataSource: NSObject, UICollectionViewDataSource {
     var data: Animals = []
     
+    func updateLovedAnimal(index: Int) {
+        guard index >= 0 && index < data.count else { return }
+        var animal = data[index]
+        animal.loved = !animal.loved
+        data[index] = animal
+    }
+    
     func setup(_ collectionView: UICollectionView) {
         collectionView.dataSource = self
         AnimalSubtypeCollectionViewCell.register(collectionView, bundle: .module)
@@ -28,9 +35,19 @@ class SubtypeAnimalPictureListDataSource: NSObject, UICollectionViewDataSource {
         AnimalSubtypeCollectionViewCell.register(collectionView, bundle: .module)
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: AnimalSubtypeCollectionViewCell.className, for: indexPath) as? AnimalSubtypeCollectionViewCell
         let animal = data[indexPath.row]
+        cell?.indexPath = indexPath
         cell?.set(label: animal.name)
+        cell?.updateLovedAnimal =  { [weak self] indexPath in
+            self?.updateLovedAnimal(index: indexPath.row)
+            collectionView.reloadItems(at: [indexPath])
+        }
+        
+        let loveImageName: String = animal.loved ? "heart.fill" : "heart"
+        let configurations = UIImage.SymbolConfiguration(scale: .large)
+        cell?.loveButton.setImage(UIImage(systemName: loveImageName, withConfiguration: configurations), for: .normal)
         
         return cell ?? .init()
     }
+    
     
 }

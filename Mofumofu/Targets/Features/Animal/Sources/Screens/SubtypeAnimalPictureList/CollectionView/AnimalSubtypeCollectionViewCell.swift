@@ -12,7 +12,11 @@ class AnimalSubtypeCollectionViewCell: UICollectionViewCell {
 
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var label: UILabel!
+    @IBOutlet weak var loveButton: UIButton!
     
+    var indexPath: IndexPath = []
+    
+    var updateLovedAnimal: ((IndexPath) -> Void)?
     override func awakeFromNib() {
         super.awakeFromNib()
         
@@ -26,4 +30,7 @@ class AnimalSubtypeCollectionViewCell: UICollectionViewCell {
         self.imageView.image = image
     }
 
+    @IBAction func loveImage() {
+        updateLovedAnimal?(indexPath)
+    }
 }

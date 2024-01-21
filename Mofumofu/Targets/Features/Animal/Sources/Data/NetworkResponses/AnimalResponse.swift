@@ -19,6 +19,7 @@ struct AnimalElement: Codable {
     let taxonomy: Taxonomy
     let locations: [Location]
     let characteristics: Characteristics
+    var loved: Bool = false
 
     enum CodingKeys: String, CodingKey {
         case name
