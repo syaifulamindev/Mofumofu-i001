@@ -33,7 +33,7 @@ let project = ProjectBuilder("Mofumofu")
     .addModule("MofumofuUI", dependencies: [
         .external(name: "SnapKit")
     ])
-    .addModule("AnimalFeature", path: "Features/Animal", dependencies: [
+    .addModule("AnimalFeature", path: "Features/Animal", withExample: true, dependencies: [
         .target(name: "MofumofuUI")
-    ])
+    ], resources: ["Targets/Features/Animal/Resources/**"])
     .build()
